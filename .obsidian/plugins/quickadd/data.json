@@ -1,0 +1,132 @@
+{
+  "choices": [
+    {
+      "id": "c4e1b433-a914-4cc3-9038-ac58fa705ef9",
+      "name": "New Project",
+      "type": "Macro",
+      "command": true,
+      "macroId": "ba553ee8-1d42-4468-a4a6-cc651dce9f5b"
+    },
+    {
+      "id": "6448d933-eafa-48fa-9df3-9c07db405da8",
+      "name": "New Note",
+      "type": "Template",
+      "command": true,
+      "templatePath": "0.Attach/0.1.Template/康奈尔笔记.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "4.Archives"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": true,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [
+    {
+      "name": "New Project",
+      "id": "ba553ee8-1d42-4468-a4a6-cc651dce9f5b",
+      "commands": [
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "6407d120-a131-435d-a2b6-14aee78c11c4",
+          "choice": {
+            "id": "e034c12a-1581-4f69-9a65-2b921a1c2c4c",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "0.Attach/0.1.Template/项目规划.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{DATE}} {{VALUE}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "1.Projects"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": true,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "Folder Note Core: Make current document folder note",
+          "type": "Obsidian",
+          "id": "7e58815e-27b8-48d4-9347-8a14912fe840",
+          "commandId": "folder-note-core:make-doc-folder-note"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "New Content",
+      "id": "81b75f36-6f02-4b20-94a6-087b305f73ed",
+      "commands": [
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "57f3bb92-30fb-4800-ba49-b2a9547dbc8a",
+          "choice": {
+            "id": "5de2493b-a373-49a4-ae66-7e9b0c91936d",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "0.Attach/0.1.Template/康奈尔笔记.md",
+            "fileNameFormat": {
+              "enabled": false,
+              "format": ""
+            },
+            "folder": {
+              "enabled": false,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": true,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Open Project",
+      "id": "0feaef07-314a-40bc-916c-0c231683212c",
+      "commands": [],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line"
+}

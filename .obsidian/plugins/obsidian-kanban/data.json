@@ -1,0 +1,6 @@
+{
+  "new-card-insertion-method": "prepend",
+  "show-relative-date": true,
+  "date-picker-week-start": 1,
+  "show-checkboxes": true
+}

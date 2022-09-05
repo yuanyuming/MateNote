@@ -1,0 +1,11 @@
+{
+  "outputDirectory": "",
+  "templateFilename": "{{title}}",
+  "inputFieldList": "title,body",
+  "textReplacementTemplate": "[[{{title}}]]",
+  "templateDirectory": "0.Attach/0.1.Template",
+  "replaceSelection": "always",
+  "createOpen": "open",
+  "inputSplit": "\\s+-\\s+",
+  "config": "[]"
+}

@@ -1,0 +1,6 @@
+{
+  "h1AsTitleSource": false,
+  "briefMax": 128,
+  "titleField": "title",
+  "descField": "description"
+}
