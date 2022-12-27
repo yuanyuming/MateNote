@@ -49,10 +49,53 @@ __export(main_exports, {
 module.exports = __toCommonJS(main_exports);
 var import_obsidian = require("obsidian");
 var import_obsidian2 = require("obsidian");
+var timeRegex = /\d{2}:\d{2} - \d{2}:\d{2}/g;
 var TimeDiffPlugin = class extends import_obsidian.Plugin {
   onload() {
     return __async(this, null, function* () {
-      const timeRegex = /\d{2}:\d{2} - \d{2}:\d{2}/g;
+      this.addCommand({
+        id: "timediff-total",
+        name: "timediff-total",
+        checkCallback: (checking) => {
+          if (!checking) {
+            const file = this.app.workspace.getActiveFile();
+            if (file) {
+              const fileCache = this.app.metadataCache.getFileCache(file);
+              const cacheRead = this.app.vault.cachedRead(file).then((data) => {
+                var _a;
+                let totalSumInMinutes = 0;
+                const codeSections = ((_a = fileCache == null ? void 0 : fileCache.sections) == null ? void 0 : _a.filter((section) => section.type === "code")) || [];
+                for (const section of codeSections) {
+                  const start = section.position.start.offset;
+                  const end = section.position.end.offset;
+                  const extracted = data.substring(start, end);
+                  if (!extracted.startsWith("```timediff")) {
+                    continue;
+                  }
+                  const extractedWithoutCodeblocks = extracted.replace("```timediff", "").replace("````", "");
+                  const rows = extractedWithoutCodeblocks.split("\n").filter((row) => row.length > 0);
+                  for (const row of rows) {
+                    const match = row.match(timeRegex);
+                    if (!match) {
+                      continue;
+                    }
+                    const timeElements = match[0].trim().split(" - ");
+                    const [left, right] = timeElements.map((timeElement) => {
+                      const [hours, minutes] = timeElement.split(":");
+                      return (0, import_obsidian2.moment)().hours(Number(hours)).minutes(Number(minutes));
+                    });
+                    const totalDiffInMinutes = right.diff(left, "minutes");
+                    totalSumInMinutes += totalDiffInMinutes;
+                  }
+                }
+                const { readableDiff, diffInMinutes } = calculateTimeDiffs(totalSumInMinutes);
+                new import_obsidian.Notice(`Total: ${totalSumInMinutes}min - ${readableDiff}`);
+              });
+            }
+          }
+          return true;
+        }
+      });
       this.registerMarkdownCodeBlockProcessor("timediff", (source, el, _ctx) => {
         let totalSumInMinutes = 0;
         const rows = source.split("\n").filter((row) => row.length > 0);
@@ -79,16 +122,21 @@ var TimeDiffPlugin = class extends import_obsidian.Plugin {
           });
           div2.createEl("span", {
             text: `	${readableDiff}`,
-            cls: "timediff-accent"
+            cls: "timediff-accent" /* TEXT_ACCENT */
           });
         }
-        const div = el.createEl("div");
+        const div = el.createEl("div", {
+          cls: "timediff-section-total" /* SECTION_TOTAL */
+        });
         div.createEl("span", {
           text: `Total: `
         });
         div.createEl("span", {
           text: `${calculateTimeDiffs(totalSumInMinutes).readableDiff}`,
-          cls: "timediff-accent"
+          cls: `${"timediff-accent" /* TEXT_ACCENT */} ${"timediff-section-value-total" /* SECTION_VALUE_TOTAL */}`,
+          attr: {
+            "data-timediff-section-total-in-minutes": `${totalSumInMinutes}`
+          }
         });
       });
     });

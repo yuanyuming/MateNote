@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "69f149f52c8b533c",
+        "id": "6211cd50127bf7f5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20220904.md",
+            "file": "Pomodoro Log.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20220904.md",
+                "file": "Pomodoro Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20220904.md",
+                "file": "Pomodoro Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20220904.md"
+                "file": "Pomodoro Log.md"
               }
             }
           },
@@ -154,24 +154,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 272.8333435058594,
-    "collapsed": true
+    "width": 272.8333435058594
   },
-  "active": "69f149f52c8b533c",
+  "active": "6211cd50127bf7f5",
   "lastOpenFiles": [
+    "1.MOC 看板.md",
     "0.Home.md",
-    "0.Attach/0.4.Picture/bg.jpg",
-    "0.Attach/0.Attach.md",
-    "0.Attach/Excalidraw/Drawing 2022-08-27 14.26.28.excalidraw.md",
-    "1.Projects/1.Projects.md",
-    "1.Projects/2022-08-26 线性代数/2022-08-26 线性代数.md",
-    "4.Archives/Git.md",
-    "1.Projects/2022-08-24 Git/2022-08-24 Git.md",
-    "Day Planners/Day Planner-20220823.md",
-    "1.Projects/2022-08-15 Vim学习/2022-08-15 Vim学习.md"
+    "1.Projects/2022-09-21 强化学习/2022-09-21 强化学习.md",
+    "4.Archives/强化学习早期历史.md",
+    "4.Archives/强化学习导论.md",
+    "4.Archives/井字棋.md",
+    "3.Resources/3.Resources.md",
+    "1.Projects/2022-08-10 深度学习/2022-08-10 深度学习.md",
+    "4.Archives/a.md",
+    "0.Attach/0.1.Template/康奈尔笔记.md"
   ]
 }

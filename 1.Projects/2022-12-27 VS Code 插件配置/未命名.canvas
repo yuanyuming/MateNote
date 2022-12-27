@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"1fe28df1d7bd70cf","x":-367,"y":-317,"width":250,"height":527,"color":"5","type":"text","text":"# VS Code 插件\n\n1. Project Manager"},
+		{"id":"c4379a94eb1dbcdd","x":-39,"y":-317,"width":250,"height":225,"color":"4","type":"text","text":"# Project Manager\n\n点击侧边栏的图标进入\n上半部分是项目收藏面板,点击软盘进行收藏,下面的列表进行切换\n下半部分是项目扫描,设定目录自动扫描svn/git项目"}
+	],
+	"edges":[]
+}

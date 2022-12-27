@@ -1,6 +1,7 @@
 # [[0.Home]]
 
 # `rir:Todo`Todo List
+每45min休息15min
 - [ ] 9:00 Do Something
 - [ ] 10:00
 - [ ] 11:00

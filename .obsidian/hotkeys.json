@@ -20,5 +20,34 @@
       ],
       "key": "1"
     }
-  ]
+  ],
+  "homepage:open-homepage": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F1"
+    }
+  ],
+  "insert-current-time": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "insert-current-date": [
+    {
+      "modifiers": [],
+      "key": "F11"
+    }
+  ],
+  "templater-obsidian:0.Attach/0.1.Template/领域模板.md": [],
+  "editor:toggle-blockquote": [],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ],
+  "editor:save-file": []
 }

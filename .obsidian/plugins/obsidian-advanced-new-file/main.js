@@ -65,6 +65,7 @@ var NewFileLocation;
 (function(NewFileLocation2) {
   NewFileLocation2["CurrentPane"] = "current-pane";
   NewFileLocation2["NewPane"] = "new-pane";
+  NewFileLocation2["NewTab"] = "new-tab";
 })(NewFileLocation || (NewFileLocation = {}));
 
 // src/utils.ts
@@ -179,12 +180,15 @@ var CreateNoteModal = class extends import_obsidian2.Modal {
           yield this.createDirectory(dir);
         }
         const File = yield vault.create(filePath, "");
+        let leaf = this.app.workspace.getLeaf(false);
         if (this.mode === NewFileLocation.NewPane) {
-          const leaf = this.app.workspace.splitLeafOrActive();
-          yield leaf.openFile(File);
-        } else {
-          yield this.app.workspace.activeLeaf.openFile(File);
+          leaf = this.app.workspace.splitLeafOrActive();
+        } else if (this.mode === NewFileLocation.NewTab) {
+          leaf = this.app.workspace.getLeaf(true);
+        } else if (!leaf) {
+          leaf = this.app.workspace.getLeaf(true);
         }
+        yield leaf.openFile(File);
       } catch (error) {
         new import_obsidian2.Notice(error.toString());
       }
@@ -308,6 +312,13 @@ var AdvancedNewFilePlugin = class extends import_obsidian4.Plugin {
         name: "Create note in a new pane",
         callback: () => {
           new ChooseFolderModal(this.app, NewFileLocation.NewPane).open();
+        }
+      });
+      this.addCommand({
+        id: "advanced-new-file-new-tab",
+        name: "Create note in a new tab",
+        callback: () => {
+          new ChooseFolderModal(this.app, NewFileLocation.NewTab).open();
         }
       });
     });

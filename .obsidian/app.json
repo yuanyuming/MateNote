@@ -6,5 +6,5 @@
   "attachmentFolderPath": "0.Attach/0.4.Picture",
   "newFileLocation": "current",
   "newLinkFormat": "shortest",
-  "vimMode": true
+  "vimMode": false
 }

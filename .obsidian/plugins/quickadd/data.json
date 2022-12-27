@@ -126,7 +126,14 @@
       "id": "0feaef07-314a-40bc-916c-0c231683212c",
       "commands": [],
       "runOnStartup": false
+    },
+    {
+      "name": "New Day",
+      "id": "34d760a4-c5a4-4e01-b52e-81541f061214",
+      "commands": [],
+      "runOnStartup": false
     }
   ],
-  "inputPrompt": "single-line"
+  "inputPrompt": "single-line",
+  "devMode": false
 }

@@ -20,8 +20,11 @@
     }
   ],
   "syntax_highlighting": true,
-  "enabled_templates_hotkeys": [],
+  "enabled_templates_hotkeys": [
+    "0.Attach/0.1.Template/领域模板.md"
+  ],
   "startup_templates": [
     ""
-  ]
+  ],
+  "enable_ribbon_icon": true
 }

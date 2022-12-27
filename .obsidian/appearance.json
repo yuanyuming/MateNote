@@ -1,5 +1,7 @@
 {
   "theme": "moonstone",
   "translucency": false,
-  "cssTheme": ""
+  "cssTheme": "Minimal",
+  "accentColor": "",
+  "nativeMenus": false
 }
