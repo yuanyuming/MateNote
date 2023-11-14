@@ -1,0 +1,18 @@
+## Top Pricing Strategies
+
+Before you can determine which retail pricing strategy to use in determining the [right price](https://www.liveabout.com/marketing-6504679) for your products, you must consider the product's direct costs and other related expenses. These two key elements of overall product cost are termed cost of goods and [operating expense](https://www.liveabout.com/how-much-does-it-cost-to-start-a-retail-business-2890132).
+
+**Markup Pricing:** The markup on cost can be calculated by adding a preset, often industry standard, [profit margin](https://www.liveabout.com/what-is-profit-margin-in-retail-2890209) percentage to the cost of the merchandise. The percentage markup on retail is determined by dividing the dollar markup by the retail price. For example, if your markup is $20 and your product retails for $40, your percentage markup is: $20 / $40 = .50 or 50 percent. Remember to keep your markup high enough to allow price reductions and discounts, cover shrinkage (theft,) and other anticipated expenses, in order to achieve a satisfactory profit. If you retain a varied product selection, you can use different markups for each product line if needed.
+
+**Vendor Pricing:** Manufacturer suggested retail price (MSRP) is a common strategy used by smaller retail shops to avoid price wars and still maintain a decent profit. For any products you resell, you'll find some suppliers have [minimum advertised prices](https://www.liveabout.com/what-is-minimum-advertised-price-2890196) (MAP) and may not let you continue to sell their products if you try to price below their MAP.
+
+**Competitive Pricing:** Consumers have many choices and are generally willing to shop around to get the best price. Retailers considering a [competitive pricing strategy](https://www.liveabout.com/what-is-competition-oriented-pricing-2295452) need to provide outstanding customer service to stand above the competition.
+
+-   **Pricing below competition** simply means pricing products lower than the competitor's price. This strategy works well if you as a retailer can negotiate the lowest buying prices from your suppliers, reduce other costs, and develop a marketing strategy to focus on price specials.
+-   **Prestige pricing, or pricing above the competition**, may be considered when your location, exclusivity, or unique customer service can justify higher prices. Retailers that stock high-quality merchandise that isn't readily available at other locations may be quite successful in pricing products above their competitors.
+
+**Psychological Pricing:** Psychological pricing is a technique of setting prices at a certain level where the consumer perceives the price to be fair, a bargain, or a sale price. The most common method is [odd-pricing](https://www.liveabout.com/odd-even-pricing-in-retail-2890202), which uses figures that end in 5, 7 or 9, such as $15.97. It is believed that consumers tend to round down a price of $9.95 to $9, rather than $10.
+
+**Keystone Pricing:** [Keystone](https://www.liveabout.com/keystone-pricing-in-retail-2890192) pricing involves doubling the cost paid for merchandise to set the retail price. Although this was once the rule of pricing products, more intense competition and the continually changing retail landscape have driven some retailers to use methods other than Keystone. However, stores selling higher-end goods with less sensitivity to price may still use keystone.
+
+**Multiple Pricing:** This method involves selling more than one product for one price, such as three items for $1. Not only is this strategy great for markdowns or sales events, but retailers have noticed consumers tend to purchase in larger amounts when they use multiple pricing strategies.

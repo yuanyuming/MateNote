@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"1fe28df1d7bd70cf","x":-367,"y":-317,"width":307,"height":780,"color":"5","type":"text","text":"# VS Code 插件\n\n1. Project Manager\n2. Note\n3. Dictionary Completion\n\t1. 辅助输入单词\n4. HexEditor\n\t1. 二进制编辑器\n5. Bookmarks\n\t1. 右键菜单里直接设置/取消书签，快捷键在不同的书签位置跳转，左边还有当前书签列表，双击立马跳转\n6. GitHub Repositories\n\t1. 打开远程仓库,选择Remote Repositories, 粘贴GitHub项目地址URL\n\t2. 快速打开远程仓库,按需请求文件内容\n7. MetaGo\n8. Blockman\n\t1. 高亮代码块\n9. Todo Tree\n\t1. 找出代码中包含TODO,FIXME注释\n10. Image preview\n11. Path Intellisense\n12. vscode-fileheader\n13. Office Viewer\n14. LaTex Workshop\n15. LaTex Utilities\n16. LTex\n\t1. 拼写检查\n17. Postcode\n18. REST Client\n19. Better Comments"},
+		{"id":"c4379a94eb1dbcdd","x":-39,"y":-317,"width":250,"height":225,"color":"4","type":"text","text":"# Project Manager\n\n点击侧边栏的图标进入\n上半部分是项目收藏面板,点击软盘进行收藏,下面的列表进行切换\n下半部分是项目扫描,设定目录自动扫描svn/git项目"},
+		{"id":"2fe2d1b828218278","x":7,"y":-27,"width":250,"height":271,"type":"text","text":"# MetaGo\n\n[MetaGo Manual](https://github.com/metaseed/metaGo/blob/master/README.md#features-summary)\n\nalt+/ 按下字母n,屏幕n被高亮,并显示快捷字母,按下字母,直接跳转"}
+	],
+	"edges":[]
+}

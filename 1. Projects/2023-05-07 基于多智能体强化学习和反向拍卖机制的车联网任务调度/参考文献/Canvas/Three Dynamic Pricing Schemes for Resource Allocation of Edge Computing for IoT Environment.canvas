@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"type":"text","text":"![[Three Dynamic Pricing Schemes for Resource Allocation of Edge Computing for IoT Environment#Abstract]]","id":"cab774a700dfa604","x":950,"y":-13387,"width":740,"height":637},
+		{"type":"text","text":"![[Three Dynamic Pricing Schemes for Resource Allocation of Edge Computing for IoT Environment#1. INTRODUCTION]]","id":"a5fc208bcafd8833","x":950,"y":-12750,"width":740,"height":2894},
+		{"type":"text","text":"![[Abstract Set#Three Dynamic Pricing Schemes for Resource Allocation of Edge Computing for IoT Environment]]","id":"5d739be0e33fa353","x":1690,"y":-13387,"width":600,"height":408},
+		{"type":"text","text":"![[Three Dynamic Pricing Schemes for Resource Allocation of Edge Computing for IoT Environment#2. SYSTEM MODEL]]","id":"ad9160f92bd89bed","x":2569,"y":-13437,"width":740,"height":4269},
+		{"type":"text","text":"![[Three Dynamic Pricing Schemes for Resource Allocation of Edge Computing for IoT Environment#3. PERFORMANCE ANALYSIS]]","id":"8dc2a22c7a80a836","x":3999,"y":-13438,"width":740,"height":7726},
+		{"type":"text","text":"![[Three Dynamic Pricing Schemes for Resource Allocation of Edge Computing for IoT Environment#4. NUMERICAL RESULTS]]","id":"b91e20e31a324c73","x":5429,"y":-13438,"width":740,"height":6104},
+		{"type":"text","text":"![[Three Dynamic Pricing Schemes for Resource Allocation of Edge Computing for IoT Environment#5. DISCUSSIONS]]","id":"36cbdf1935b8d757","x":6858,"y":-13438,"width":740,"height":1268}
+	],
+	"edges":[]
+}

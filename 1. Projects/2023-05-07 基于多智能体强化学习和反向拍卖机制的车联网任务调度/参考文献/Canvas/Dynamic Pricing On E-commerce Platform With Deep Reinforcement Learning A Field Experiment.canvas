@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"type":"text","text":"![[Dynamic Pricing On E-commerce Platform With Deep Reinforcement Learning A Field Experiment#ABSTRACT]]","id":"6f5d476d610dbfe8","x":440,"y":-5460,"width":740,"height":1921},
+		{"type":"text","text":"![[Dynamic Pricing On E-commerce Platform With Deep Reinforcement Learning A Field Experiment#2 Methodology]]","id":"b9b003e540ab47d0","x":2027,"y":-5460,"width":740,"height":5241},
+		{"type":"text","text":"![[Dynamic Pricing On E-commerce Platform With Deep Reinforcement Learning A Field Experiment#3 Experimental results]]","id":"3fffb211df9e39f4","x":3614,"y":-5460,"width":740,"height":3667},
+		{"type":"text","text":"![[Dynamic Pricing On E-commerce Platform With Deep Reinforcement Learning A Field Experiment#1 Literature review]]","id":"41765645d317e5b3","x":440,"y":-3440,"width":740,"height":975},
+		{"type":"text","text":"![[Dynamic Pricing On E-commerce Platform With Deep Reinforcement Learning A Field Experiment#4 Conclusion and discussion]]","id":"dc471ca721cdde26","x":5200,"y":-5460,"width":740,"height":637},
+		{"type":"text","text":"![[Abstract Set#Dynamic Pricing On E-commerce Platform With Deep Reinforcement Learning A Field Experiment]]","id":"6b5554a9a38572c7","x":1258,"y":-5460,"width":600,"height":375}
+	],
+	"edges":[]
+}

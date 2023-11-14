@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"text","text":"![[Applications of Auction and Mechanism Design in Edge Computing A Survey#Abstract]]","id":"28056e5b170d8774","x":460,"y":-17107,"width":760,"height":627},
+		{"type":"text","text":"![[Applications of Auction and Mechanism Design in Edge Computing A Survey#I. INTRODUCTION]]","id":"a8bcddb52592c74c","x":460,"y":-16420,"width":760,"height":1897},
+		{"type":"text","text":"![[Applications of Auction and Mechanism Design in Edge Computing A Survey#II. FUNDAMENTALS OF EDGE COMPUTING]]","id":"2d3b982ae82aad39","x":460,"y":-14480,"width":760,"height":4718},
+		{"type":"text","text":"![[Applications of Auction and Mechanism Design in Edge Computing A Survey#III. OVERVIEW OF AUCTION THEORY]]","id":"f9514d67e91707b9","x":460,"y":-9600,"width":760,"height":5318},
+		{"type":"text","text":"![[Applications of Auction and Mechanism Design in Edge Computing A Survey#IV. APPLICATION OF AUCTION APPROACHES IN EC]]","id":"2a41f44462c6442c","x":2173,"y":-17107,"width":760,"height":24127},
+		{"type":"text","text":"![[Applications of Auction and Mechanism Design in Edge Computing A Survey#V. OPEN ISSUES AND FUTURE RESEARCH DIRECTIONS]]","id":"b3be91b625edbb1c","x":3886,"y":-17107,"width":760,"height":1908},
+		{"type":"text","text":"![[Applications of Auction and Mechanism Design in Edge Computing A Survey#VI. CONCLUSION]]","id":"8c21c4ba1a585999","x":5600,"y":-17107,"width":760,"height":347},
+		{"type":"text","text":"![[Abstract Set#Applications of Auction and Mechanism Design in Edge Computing A Survey]]","id":"220e5ef9f242b902","x":1296,"y":-17107,"width":600,"height":429}
+	],
+	"edges":[]
+}

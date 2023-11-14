@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"type":"text","text":"![[Resource Management with Deep Reinforcement Learning#Abstract]]","id":"6a9754c55d0da12b","x":-1400,"y":-5170,"width":740,"height":300},
+		{"type":"text","text":"![[Resource Management with Deep Reinforcement Learning#1. INTRODUCTION]]","id":"7e35c44a641709b7","x":-1400,"y":-4830,"width":740,"height":1838},
+		{"type":"text","text":"![[Resource Management with Deep Reinforcement Learning#2. BACKGROUND]]","id":"08066c9333065c28","x":310,"y":-5170,"width":740,"height":1346},
+		{"type":"text","text":"![[Resource Management with Deep Reinforcement Learning#3. DESIGN]]","id":"503c76eb7e0265f0","x":2020,"y":-5170,"width":740,"height":3791},
+		{"type":"text","text":"![[Resource Management with Deep Reinforcement Learning#4. EVALUATION]]","id":"2071078a20b5622e","x":3730,"y":-5170,"width":740,"height":3185},
+		{"type":"text","text":"![[Resource Management with Deep Reinforcement Learning#5. DISCUSSION]]","id":"940d7fe69d667517","x":5440,"y":-5170,"width":740,"height":689},
+		{"type":"text","text":"![[Resource Management with Deep Reinforcement Learning#6. RELATED WORK]]","id":"a34d785954bdd680","x":5440,"y":-4400,"width":740,"height":445},
+		{"type":"text","text":"![[Resource Management with Deep Reinforcement Learning#7. CONCLUSION]]","id":"49e271094d4791b2","x":5440,"y":-3911,"width":740,"height":217},
+		{"type":"text","text":"![[Abstract Set#Resource Management with Deep Reinforcement Learning]]","id":"d923b57d425351d3","x":-593,"y":-5170,"width":600,"height":340}
+	],
+	"edges":[]
+}

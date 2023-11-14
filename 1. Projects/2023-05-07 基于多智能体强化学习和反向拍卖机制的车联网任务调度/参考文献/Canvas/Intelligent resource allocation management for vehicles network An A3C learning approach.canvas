@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"text","text":"![[Intelligent resource allocation management for vehicles network An A3C learning approach#1. Introduction]]","id":"3612720c07f088a3","x":490,"y":-11384,"width":740,"height":2557},
+		{"type":"text","text":"![[Intelligent resource allocation management for vehicles network An A3C learning approach#ABSTRACT]]","id":"32a61508e39f6e19","x":490,"y":-11878,"width":740,"height":438},
+		{"type":"text","text":"![[Intelligent resource allocation management for vehicles network An A3C learning approach#2. Related work]]","id":"2e20df974dc9851d","x":490,"y":-8640,"width":740,"height":2470},
+		{"type":"text","text":"![[Intelligent resource allocation management for vehicles network An A3C learning approach#3. System model]]","id":"395e6828780759e5","x":2148,"y":-11878,"width":740,"height":6388},
+		{"type":"text","text":"![[Intelligent resource allocation management for vehicles network An A3C learning approach#4. The asynchronous advantage actor–critic algorithm]]","id":"0c829f7b2968b32b","x":3806,"y":-11878,"width":740,"height":5288},
+		{"type":"text","text":"![[Intelligent resource allocation management for vehicles network An A3C learning approach#5. Experiment and analysis]]","id":"37ce9f447ad49737","x":5464,"y":-11878,"width":740,"height":6528},
+		{"type":"text","text":"![[Intelligent resource allocation management for vehicles network An A3C learning approach#6. Conclusion and future work]]","id":"6dc1e184cd59ca76","x":7120,"y":-11878,"width":740,"height":347},
+		{"type":"text","text":"![[Abstract Set#Intelligent resource allocation management for vehicles network An A3C learning approach]]","id":"8deec545e6688b8f","x":1322,"y":-11878,"width":600,"height":312}
+	],
+	"edges":[]
+}

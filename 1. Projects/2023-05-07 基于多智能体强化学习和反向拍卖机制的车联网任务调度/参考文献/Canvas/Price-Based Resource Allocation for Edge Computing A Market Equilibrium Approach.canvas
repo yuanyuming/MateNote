@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":"![[Price-Based Resource Allocation for Edge Computing A Market Equilibrium Approach#5 CENTRALIZED SOLUTION]]","id":"5139715d417f608e","x":1440,"y":-17080,"width":740,"height":320},
+		{"type":"text","text":"![[Price-Based Resource Allocation for Edge Computing A Market Equilibrium Approach#Abstract]]","id":"904e40fbffcb3282","x":440,"y":-14940,"width":740,"height":541},
+		{"type":"text","text":"![[Price-Based Resource Allocation for Edge Computing A Market Equilibrium Approach#1 INTRODUCTION]]","id":"b0d4daef1d79e1a1","x":440,"y":-14320,"width":740,"height":4275},
+		{"type":"text","text":"![[Price-Based Resource Allocation for Edge Computing A Market Equilibrium Approach#2. RELATED WORK]]","id":"c5e33a76073acc9f","x":440,"y":-9920,"width":740,"height":2163},
+		{"type":"text","text":"![[Price-Based Resource Allocation for Edge Computing A Market Equilibrium Approach#3. SYSTEM MODEL]]","id":"1e6741c9257ff693","x":1817,"y":-14940,"width":740,"height":2029},
+		{"type":"text","text":"![[Price-Based Resource Allocation for Edge Computing A Market Equilibrium Approach#4 PROBLEM FORMULATION]]","id":"8c305fd03a52c61e","x":3194,"y":-14940,"width":740,"height":3084},
+		{"type":"text","text":"![[Price-Based Resource Allocation for Edge Computing A Market Equilibrium Approach#5 CENTRALIZED SOLUTION]]","id":"b914647596d0b934","x":4571,"y":-14940,"width":740,"height":4072},
+		{"type":"text","text":"![[Price-Based Resource Allocation for Edge Computing A Market Equilibrium Approach#6. DECENTRALIZED SOLUTION]]","id":"2fa381d03d6e3f4b","x":5948,"y":-14940,"width":740,"height":4139},
+		{"type":"text","text":"![[Price-Based Resource Allocation for Edge Computing A Market Equilibrium Approach#7. NET PROFIT MAXIMIZATION]]","id":"2f6f626b2965b819","x":7325,"y":-14940,"width":740,"height":1690},
+		{"type":"text","text":"![[Price-Based Resource Allocation for Edge Computing A Market Equilibrium Approach#8 NUMERICAL RESULTS]]","id":"14acb777dae1aa2b","x":8702,"y":-14940,"width":740,"height":7792},
+		{"type":"text","text":"![[Price-Based Resource Allocation for Edge Computing A Market Equilibrium Approach#9 CONCLUSION AND FUTURE WORKS]]","id":"9135a008f068af89","x":10080,"y":-14940,"width":740,"height":853},
+		{"type":"text","text":"![[Abstract Set#Price-Based Resource Allocation for Edge Computing A Market Equilibrium Approach]]","id":"737a01def678c784","x":1180,"y":-14940,"width":600,"height":312}
+	],
+	"edges":[]
+}

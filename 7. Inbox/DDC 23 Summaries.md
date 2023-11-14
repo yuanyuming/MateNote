@@ -1,0 +1,1073 @@
+## DDC 23 Summaries
+### History and Current Use
+The Dewey Decimal Classification (DDC) system is a general knowledge organization tool that is continuously revised to keep pace with knowledge. The system was conceived by Melvil Dewey in 1873 and first published in 1876. The DDC is published by OCLC Online Computer Library Center, Inc. OCLC owns all copyright rights in the Dewey Decimal Classification, and licenses the system for a variety of uses.
+The DDC is the most widely used classification system in the world. Libraries in more than 140 countries use the DDC to organize and provide access to their collections, and DDC numbers are featured in the national bibliographies of more than 60 countries. Libraries of every type apply Dewey numbers on a daily basis and share these numbers through a variety of means (including WorldCat, the OCLC Online Union Catalog). Dewey is also used for other purposes, e.g., as a browsing mechanism for resources on the web.
+The DDC has been translated into over thirty languages. Translations of the latest edition of the DDC are completed, planned, or underway in Arabic, French, German, Italian, Norwegian, Spanish, Swedish, and Vietnamese.
+### Development
+One of Dewey's great strengths is that the system is developed and maintained in a national bibliographic agency, the Library of Congress. The Dewey editorial office is located in the Decimal Classification Division of the Library of Congress, where classification specialists annually assign tens of thousands of DDC numbers to records for works cataloged by the Library. Having the editorial office within the CIP and Dewey Section enables the editors to detect trends in the literature that must be incorporated into the Classification. The editors prepare proposed schedule revisions and expansions, and forward the proposals to the Decimal Classification Editorial Policy Committee (EPC) for review and recommended action.
+EPC is a ten-member international board whose main function is to advise the editors and OCLC on matters relating to changes, innovations, and the general development of the Classification. EPC represents the interests of DDC users; its members come from national, public, special, and academic libraries, and from library schools.
+### Editions
+The DDC is published in full and abridged editions in print and web accessible versions. The abridged edition is a logical truncation of the notational and structural hierarchy of the corresponding full edition on which it is based, and is intended for general collections of 20,000 titles or less. WebDewey, the electronic version of the classification is updated frequently and contain additional index entries and mapped vocabulary. Currently, the Abridged 15 edition is available to WebDewey subscribers in pdf form. Abridged numbers are indicated with segmentation marked. The electronic version and supplemental web postings are the chief sources of ongoing updates to the DDC. On the Dewey web site (www.oclc.org/devey(http://www.oclc.org/devey)), selected new numbers and changes to the DDC are posted regularly.
+### Structure and Notation
+The DDC is built on sound principles that make it ideal as a general knowledge organization tool: meaningful notation in universally recognized Arabic numerals, well-defined categories, well-developed hierarchies, and a rich network of relationships among topics. In the DDC, basic classes are organized by disciplines or fields of study. At the broadest level, the DDC is divided into ten main classes, which together cover the entire world of knowledge. Each main class is further divided into ten divisions, and each division into ten sections (not all the numbers for the divisions and sections have been used). The main structure of the DDC is presented in the DDC Summaries following this introduction. The headings associated with the numbers in the summaries have been edited for browsing purposes, and do not necessarily match the complete headings found in the schedules.
+The _first summary_ contains the ten main classes. The first digit in each three-digit number represents the main class. For example, 600 represents technology.
+The _second summary_ contains the hundred divisions. The second digit in each three-digit number indicates the division. For example, 600 is used for general works on technology, 610 for medicine and health, 620 for engineering, 630 for agriculture.
+The _third summary_ contains the thousand sections. The third digit in each three-digit number indicates the section. Thus, 610 is used for general works on medicine and health, 611 for human anatomy, 612 for human physiology, 613 for personal health and safety.
+Arabic numerals are used to represent each class in the DDC. A decimal point follows the third digit in a class number, after which division by ten continues to the specific degree of classification needed.
+A subject may appear in more than one discipline. For example, "clothing" has aspects that fall under several disciplines. The psychological influence of clothing belongs in 155.95 as part of the discipline of psychology; customs associated with clothing belong in 391 as part of the discipline of customs; and clothing in the sense of fashion design belongs in 746.92 as part of the discipline of the arts.
+### Hierarchy
+Hierarchy in the DDC is expressed through structure and notation. Structural hierarchy means that all topics (aside from the ten main classes) are part of all the broader topics above them. Any note regarding the nature of a class holds true for all the subordinate classes, including logically subordinate topics classed at coordinate numbers.
+Notational hierarchy is expressed by length of notation. Numbers at any given level are usually subordinate to a class whose notation is one digit shorter; coordinate with a class whose notation has the same number of significant digits; and superordinate to a class with numbers one or more digits longer. The underlined digits in the following example demonstrate this notational hierarchy:
+- 600 Technology  
+- 630 Agriculture and related technologies  
+- 636 Animal husbandry  636.7 Dogs  636.8 Cats 
+"Dogs" and "Cats" are more specific than (i.e., are subordinate to) "Animal husbandry"; they are equally specific as (i.e., are coordinate with) each other; and "Animal husbandry" is less specific than (i.e., is superordinate to) "Dogs" and "Cats."
+Sometimes, other devices must be used to express the hierarchy when it is not possible or desirable to do so through the notation. Special headings, notes, and entries indicate relationships among topics that violate notational hierarchy.
+### Arrangement of the DDC
+The print version of the latest full edition of the DDC, Edition 23, is composed of the following major parts in four volumes:
+#### Volume 1
+(A) Introduction: A description of the DDC and how to use it
+(B) Glossary: Short definitions of terms used in the DDC
+(C) Index to the Introduction and Glossary
+(D) Manual: A guide to the use of the DDC that is made up primarily of extended discussions of problem areas in the application of the DDC. Information in the Manual is arranged by the numbers in the tables and schedules.
+(E) Tables: Six numbered tables of notation that can be added to class numbers to provide greater specificity
+#### Volume 2
+(F) Schedules: The organization of knowledge from 000-599
+#### Volume 3
+(G) Schedules: The organization of knowledge from 600-999
+#### Volume 4
+(H) Relative Index: An alphabetical list of subjects with the disciplines in which they are treated subarranged alphabetically under each entry
+#### Entries
+Entries in the schedules and tables are composed of a DDC number in the number column (the column at the left margin), a heading describing the class that the number represents, and often one or more notes. All entries (numbers, headings, and notes) should be read in the context of the hierarchy.
+In the print version of the DDC, the first three digits of schedule numbers (main classes, divisions, sections) appear only once in the number column, when first used. They are repeated at the top of each page where their subdivisions continue. Subordinate numbers appear in the number column, beginning with a decimal point, with the initial three digits understood.
+. Square brackets are also used for standard subdivision concepts that are represented in another location. Numbers in square brackets are never used.
+### Number Building
+Only a fraction of potential DDC numbers are included in the schedules. It is often necessary to build or synthesize a number that is not specifically listed in the schedules. Such built numbers allow for greater depth of content analysis. There are four sources of notation for building numbers: (A) Table 1 Standard Subdivisions; (B) Tables 2-6; (C) other parts of the schedules; and (D) add tables in the schedules.
+Number building is initiated only upon instructions in the schedules (except for the addition of standard subdivisions, which may take place anywhere unless there is an instruction to the contrary). Number building begins with a base number (always stated in the instruction note) to which another number is added.
+### More Information
+The Dewey web site (www.oclc.org/devey(http://www.oclc.org/devey)) contains up-to-date information about the DDC, DDC products and services, and DDC licensing. For more information about the structure and application of the Dewey Decimal Classification, consult the Introduction. A more in-depth introduction to the Dewey Decimal Classification may be found on the Dewey Teaching Site at http://oc.lc/deweyteachingsit(http://oc.lc/deweyteachingsit)
+# DDC 23 Summaries
+
+0. Computer science, information
+1. . Philosophy psychology
+2. Religion
+3. Social sciences
+4. Language
+5. Science
+6. Technology
+7. Arts recreation
+8. Literature
+9. History & geography
+
+
+## Second Summary
+## Hundred Divisions
+- 000 Computer science, knowledge systems 
+- 010 Bibliographies 
+- 020 Library information sciences 
+- 030 Encyclopedias books of facts 
+- 050 Magazines, journals serials 
+- 060 Associations, organizations museums 
+- 070 News media, journalism publishing 
+- 080 Quotations 
+- 090 Manuscripts rare books 
+- 100 Philosophy 
+- 110 Metaphysics 
+- 120 Epistemology 
+- 130 Parapsychology occultism 
+- 140 Philosophical schools of thought 
+- 150 Psychology 
+- 160 Philosophical logic 
+- 170 Ethics 
+- 180 Ancient, medieval eastern philosophy 
+- 190 Modern western philosophy 
+- 200 Religion 
+- 210 Philosophy theory of religion 
+- 220 The Bible 
+- 230 Christianity 
+- 240 Christian practice observance 
+- 250 Christian pastoral practice religious orders 
+- 260 Christian organization, social work worship 
+- 270 History of Christianity 
+- 280 Christian denominations 
+- 290 Other religions 
+- 300 Social sciences, sociology anthropology 
+- 310 Statistics 
+- 320 Political science 
+- 330 Economics 
+- 340 Law 
+- 350 Public administration military science 
+- 360 Social problems social services 
+- 370 Education 
+- 380 Commerce, communications transportation 
+- 390 Customs, etiquette folklore 
+- 400 Language 
+- 410 Linguistics 
+- 420 English Old English languages 
+- 430 German related languages 
+- 440 French related languages 
+- 450 Italian, Romanian related languages 
+- 460 Spanish, Portuguese, Galician 
+- 470 Latin Italic languages 
+- 480 Classical modern Greek languages 
+- 490 Other languages 
+- 500 Science  
+- 510 Mathematics  
+- 520 Astronomy  
+- 530 Physics  
+- 540 Chemistry  
+- 550 Earth sciences geology  
+- 560 Fossils prehistoric life  
+- 570 Biology  
+- 580 Plants (Botany)  
+- 590 Animals (Zoology)  
+- 600 Technology  
+- 610 Medicine health  
+- 620 Engineering  
+- 630 Agriculture  
+- 640 Home family management  
+- 650 Management public relations  
+- 660 Chemical engineering  
+- 670 Manufacturing  
+- 680 Manufacture for specific uses  
+- 690 Construction of buildings  
+- 700 Arts  
+- 710 Area planning landscape architecture  
+- 720 Architecture  
+- 730 Sculpture, ceramics metalwork  
+- 740 Design related arts  
+- 750 Painting  
+- 760 Printmaking prints  
+- 770 Photography, computer art, film, video  
+- 780 Music  
+- 790 Sports, games entertainment  
+- 800 Literature, rheoric criticism  
+- 810 American literature in English  
+- 820 English Old English literatures  
+- 830 German related literatures  
+- 840 French related literatures  
+- 850 Italian, Romanian related literatures  
+- 860 Spanish, Portuguese, Galician literatures  
+- 870 Latin Italic literatures  
+- 880 Classical modern Greek literatures  
+- 890 Other literatures  
+- 900 History  
+- 910 Geography travel  
+- 920 Biography genealogy  
+- 930 History of ancient world (to ca. 499)  
+- 940 History of Europe  
+- 950 History of Asia  
+- 960 History of Africa  
+- 970 History of North America  
+- 980 History of South America  
+- 990 History of other areas 
+## Thousand Sections
+- 000 Computer science, information, general works  
+- 001 Knowledge  
+- 002 The book  
+- 003 Systems  
+- 004 Computer science  
+- 005 Computer programming, programs, data  
+- 006 Special computer methods  
+- 010 Bibliography  
+- 011 Bibliographies and catalogs  
+- 012 Bibliographies and catalogs of individuals  
+- 014 Of anonymous pseudonymous works  
+- 015 Of works from specific places  
+- 016 Of works on specific subjects  
+- 017 General subject catalogs  
+- 020 Library and information sciences  
+- 021 Relationships of libraries and archives  
+- 022 Administration of physical plant  
+- 023 Personnel management  
+- 025 Operations of libraries and archives  
+- 026 Libraries and archives devoted to specific subjects  
+- 027 General libraries and archives  
+- 028 Reading and use of other information media  
+- 030 General encyclopedic works  
+- 031 General encyclopedic works in American English  
+- 032 General encyclopedic works in English  
+- 033 Encyclopedia in other Germanic languages  
+- 034 Encyclopedias in French, Occitan Catalan  
+- 035 Encyclopedia in Italian, Romanian related languages  
+- 036 Encyclopedia in Spanish, Portuguese Galician 
+- 037 General encyclopedic works in Slavic languages
+- 038 General encyclopedic works in Scandinavian languages
+- 039 General encyclopedic works in other languages
+- 050 General serial publications 
+- 051 General serial publications in American English 
+- 052 General serial publications in English 
+- 053 Serials in other Germanic languages
+- 054 Serials in French, Occitan Catalan  
+- 055 Serials in Italian, Romanian related languages  
+- 056 Serials in Spanish, Portuguese Galician  
+- 057 General serial publications in Slavic languages  
+- 058 Serials in Scandinavian languages  
+- 059 General serial publications in other languages  
+- 060 General organizations museum science  
+- 061 General organizations in North America  
+- 062 General organizations in British lies  
+- 063 General organizations in Germany; in Central Europe  
+- 064 General organizations in France and Monaco  
+- 065 General organizations in Italy  
+- 066 General organizations in Spain  
+- 067 General organizations in Russia; in Eastern Europe  
+- 068 General organizations in other geographic areas  
+- 069 Museology (Museum science)  
+- 070 Documentary, educational, news media; journalism  
+- 071 Journalism and newspapers in North America  
+- 072 Journalism and newspapers in British Isles  
+- 073 Journalism and newspapers in Germany  
+- 074 Journalism and newspapers in France and Monaco  
+- 075 Journalism and newspapers in Italy  
+- 076 Journalism and newspapers in Spain  
+- 077 Journalism and newspapers in Russia  
+- 078 Journalism and newspapers in Scandinavia  
+- 079 Newspapers in other geographic areas  
+- 080 General collections  
+- 081 General collections in American English  
+- 082 General collections in English  
+- 083 General collections in other Germanic languages  
+- 084 General collections in French, Occitan Catalan  
+- 085 Collections in Italian, Romanian related languages  
+- 086 Collections in Spanish, Portuguese Galician  
+- 087 General collections in Slavic languages  
+- 088 General collections in Scandinavian languages  
+- 089 General collections in other languages  
+- 090 Manuscripts and rare books  
+- 091 Manuscripts  
+- 092 Block books  
+- 093 Incunabula  
+- 094 Printed books  
+- 095 Books notable for bindings  
+- 096 Books notable for illustrations and materials  
+- 097 Books notable for ownership or origin  
+- 098 Prohibited works, forgeries, hoaxes  
+- 099 Books notable for format 
+- 100 Philosophy psychology
+- 101 Theory of philosophy
+- 102 Miscellany of philosophy
+- 103 Dictionaries encyclopedias
+- 105 Serial publications of philosophy
+- 106 Organizations management
+- 107 Education, research related topics
+- 108 Groups of people
+- 109 History and collected biography
+- 110 Metaphysics
+- 111 Ontology
+- 113 Cosmology (Philosophy of nature)
+- 114 Space
+- 115 Time
+- 116 Change
+- 117 Structure
+- 118 Force and energy
+- 119 Number and quantity
+- 120 Epistemology, causation, humankind
+- 121 Epistemology (Theory of knowledge)
+- 122 Causation
+- 123 Determinism and indeterminism
+- 124 Teleology
+- 126 The self
+- 127 The unconscious and the subconscious
+- 128 Humankind
+- 129 Origin and destiny of individual souls
+- 130 Parapsychology and occultism
+- 131 Parapsychological and occult methods
+- 133 Specific topics in parapysychology occultism
+- 135 Dreams and mysteries
+- 137 Divinatory graphology
+- 138 Phyisognomy
+- 139 Phrenology
+- 140 Specific philosophical schools
+- 141 Idealism and related systems
+- 142 Critical philosophy
+- 143 Bergsonism and intuitionism
+- 144 Humanism and related systems
+- 145 Sensationalism
+- 146 Naturalism and related systems
+- 147 Pantheism and related systems
+- 148 Eclecticism, liberalism, traditionalism
+- 149 Other philosophical systems and doctrines
+- 150 Psychology
+- 152 Perception, movement, emotions drives
+- 153 Conscious mental processes intelligence
+- 154 Subconscious altered states
+- 155 Differential developmental psychology
+- 156 Comparative psychology
+- 158 Applied psychology
+- 160 Philosophical logic
+- 161 Induction
+- 162 Deduction
+- 165 Fallacies and sources of error
+- 166 Syllogisms
+- 167 Hypotheses
+- 168 Argument and persuasion
+- 169 Analogy
+- 170 Ethics (Moral philosophy)
+- 171 Ethical systems
+- 172 Political ethics
+- 173 Ethics of family relationships
+- 174 Occupational ethics
+- 175 Ethics of recreation leisure
+- 176 Ethics of sex reproduction
+- 177 Ethics of social relations
+- 178 Ethics of consumption
+- 179 Other ethical norms
+- 180 Ancient, medieval eastern philosophy
+- 181 Eastern philosophy
+- 182 Pre-Socratic Greek philosophies
+- 183 Sophistic, Socratic, related philosophies
+- 184 Platonic philosophy
+- 185 Aristotelian philosophy
+- 186 Skeptic and Neoplatonic philosophies
+- 187 Epicurean philosophy
+- 188 Stoic philosophy
+- 189 Medieval western philosophy
+- 190 Modern western philosophy
+- 191 Philosophy of United States and Canada
+- 192 Philosophy of British Isles
+- 193 Philosophy of Germany and Austria
+- 194 Philosophy of France
+- 195 Philosophy of Italy
+- 196 Philosophy of Spain and Portugal
+- 197 Philosophy of Russia
+- 198 Philosophy of Scandinavia and Finland
+- 199 Philosophy of other geographic areas
+
+---
+- 200 Religion
+- 201 Religious mythology social theology
+- 202 Doctrines
+- 203 Public worship and other practices
+- 204 Religious experience, life, practice
+- 205 Religious ethics
+- 206 Leaders and organization
+- 207 Missions and religious education
+- 208 Sources
+- 209 Sects and reform movements
+- 210 Philosophy and theory of religion
+- 211 Concepts of God
+- 212 Existence, knowability attributes of God
+- 213 Creation
+- 214 Theodicy
+- 215 Science and religion
+- 218 Humankind
+- 210 Bible
+- 212 Old Testament (Tanakh)
+- 213 Historical books of Old Testament
+- 214 Poetic books of Old Testament
+- 215 Prophetic books of Old Testament
+- 216 New Testament
+- 217 Gospels and Acts
+- 218 Epistles
+- 219 Revelation (Apocalypse)
+- 220 Apocrypha and pseudepigrapha
+- 221 Christianity
+- 222 God
+- 223 Jesus Christ and his family
+- 224 Humankind
+- 225 Salvation and grace
+- 226 Spiritual beings
+- 227 Eschatology
+- 229 Creeds catechisms
+- 230 Apologetics and polemics
+- 231 Christian moral and devotional theology
+- 232 Christian ethics
+- 233 Devotional literature
+- 234 Evangelistic writings for individuals
+- 236 Use of art in Christianity
+- 237 Church furnishings and related articles
+- 238 Christian experience, practice, life
+- 239 Christian observances in family life
+- 230 Local Christian church and religious orders
+- 231 Preaching (Homiletics)
+- 232 Texts of sermons
+- 234 Pastoral work (Pastoral theology)
+- 235 Local church administration
+- 236 Religious congregations and orders
+- 239 Pastoral care of families groups of people
+- 230 Christian social and ecclesiastical theology
+- 231 Social theology and interreligious relations
+- 232 Ecclesiology
+- 233 Days, times, places of religious observance
+- 234 Public worship
+- 235 Sacraments, other rites and acts
+- 236 Missions
+- 237 Associations for religious work
+- 238 Religious education
+- 239 Spiritual renewal
+- 230 History, geographic treatment, biography
+- 231 Religious orders in church history
+- 232 Persecutions in general church history
+- 233 Doctrinal controversies heresies
+- 234 History of Christianity in Europe
+- 235 History of Christianity in Asia
+- 236 History of Christianity in Africa
+- 237 History of Christianity in North America
+- 238 History of Christianity in South America
+- 239 History of Christianity in other areas
+- 230 Denominations sects of Christian church
+- 231 Early church and Eastern churches
+- 232 Roman Catholic Church
+- 233 Anglican churches
+- 234 Protestants of Continental origin
+- 235 Presbyterian, Reformed Congregational
+- 236 Baptist, Restoration Adventist
+- 237 Methodist and related churches
+- 239 Other denominations and sects
+- 230 Other religions
+- 232 Classical religion (Greek Roman religion)
+- 233 Germanic religion
+- 234 Religions of Indic origin
+- 235 Zoroastriamism (Mazdism, Parseeism)
+- 236 Judasiem
+- 237 Islam, Babism Bahai Faith
+- 239 Religions not provided for elsewhere 
+---
+
+- 300 Social sciences
+- 301 Sociology and anthropology
+- 302 Social interaction
+- 303 Social processes
+- 304 Factors affecting social behavior
+- 305 Groups of people
+- 306 Culture and institutions
+- 307 Communities
+- 310 Collections of general statistics
+- 314 General statistics of Europe
+- 315 General statistics of Asia
+- 316 General statistics of Africa
+- 317 General statistics of North America
+- 318 General statistics of South America
+- 319 General statistics of other areas
+- 320 Political science (Politics and government)
+- 321 Systems of governments and states
+- 322 Relation of state to organized groups
+- 323 Civil and political rights
+- 324 The political process
+- 325 International migration and colonization
+- 326 Slavery and emancipation
+- 327 International relations
+- 328 The legislative process
+- 330 Economics
+- 331 Labor economics
+- 332 Financial economics
+- 333 Economics of land and energy
+- 334 Cooperatives
+- 335 Socialism and related systems
+- 336 Public finance
+- 337 International economics
+- 338 Production
+- 339 Macroeconomics and related topics
+- 340 Law
+- 341 Law of nations
+- 342 Constitutional and administrative law
+- 343 Military, tax, trade industrial law
+- 344 Labor, social, education cultural law
+- 345 Criminal law
+- 346 Private law
+- 347 Procedure and courts
+- 348 Laws, regulations, cases
+- 349 Law of specific jurisdictions areas
+- 350 Public administration and military science
+- 351 Public administration
+- 352 General considerations of public administration
+- 353 Specific fields of public administration
+- 354 Administration of economy environment
+- 355 Military science
+- 356 Foot forces warfare
+- 357 Mounted forces warfare
+- 358 Air other specialized forces
+- 359 Naval forces and warfare
+- 360 Social problems and services; associations
+- 361 Social problems and services
+- 362 Social problems and services to groups
+- 363 Other social problems and services
+- 364 Criminology
+- 365 Penal and related institutions
+- 366 Secret associations and societies
+- 367 General clubs
+- 368 Insurance
+- 369 Associations
+- 370 Education
+- 371 Schools and their activities; special education
+- 372 Primary education (Elementary education)
+- 373 Secondary education
+- 374 Adult education
+- 375 Curricula
+- 378 Higher education (Tertiary education)
+- 379 Public policy issues in education
+- 380 Commerce, communications, transportation
+- 381 Commerce (Trade)
+- 382 International commerce (Foreign trade)
+- 383 Postal communication
+- 384 Communications
+- 385 Railroad transportation
+- 386 Inland waterway and ferry transportation
+- 387 Water, air, space transportation
+- 388 Transportation
+- 389 Metrology and standardization
+- 390 Customs, etiquette, folklore
+- 391 Costume and personal appearance
+- 392 Customs of life cycle and domestic life
+- 393 Death customs
+- 394 General customs
+- 395 Etiquette (Manners)
+- 398 Folklore
+- 399 Customs of war and diplomacy 
+- 400 Language
+- 401 Philosophy and theory; international languages
+- 402 Miscellany
+- 403 Dictionaries encyclopedias
+- 404 Special topics of language
+- 405 Serial publications
+- 406 Organizations and management
+- 407 Education, research, related topics
+- 408 Groups of people
+- 409 Geographic treatment and biography
+- 410 Linguistics
+- 411 Writing systems
+- 412 Etymology
+- 413 Dictionaries
+- 414 Phonology phonetics
+- 415 Grammar
+- 417 Dialectology and historical linguistics
+- 418 Applied linguistics
+- 419 Sign languages
+- 420 English Old English (Anglo-Saxon)
+- 421 Writing system, phonology, phonetics
+- 422 Etymology of standard English
+- 423 Dictionaries of standard English
+- 425 Grammar of standard English
+- 427 English language variations
+- 428 Standard English usage
+- 429 Old English (Anglo-Saxon)
+- 430 German and related languages
+- 431 Writing system, phonology, phonetics
+- 432 Etymology of standard German
+- 433 Dictionaries of standard German
+- 435 Grammar of standard German
+- 437 German language variations
+- 438 Standard German usage
+- 439 Other German languages
+- 440 French related Romance languages
+- 441 Writing system, phonology, phonetics
+- 442 Etymology of standard French
+- 443 Dictionaries of standard French
+- 445 Grammar of standard French
+- 447 French language variations
+- 448 Standard French usage
+- 449 Occitan, Catalan, Franco-Provencal
+- 450 Italian, Romanian related languages
+- 451 Writing system, phonology, phonetics
+- 452 Etymology of standard Italian
+- 453 Dictionaries of standard Italian
+- 455 Grammar of standard Italian
+- 457 Italian language variations
+- 458 Standard Italian usage
+- 459 Romanian, Rhaetian, Sardinian, Corsican
+- 460 Spanish, Portuguese, Galician
+- 461 Writing system, phonology, phonetics
+- 462 Etymology of standard Spanish usage
+- 463 Dictionaries of standard Spanish
+- 465 Grammar of standard Spanish
+- 467 Spanish language variations
+- 468 Standard Spanish usage
+- 469 Portuguese
+- 470 Latin and related Italic languages
+- 471 Writing system, phonology, phonetics
+- 472 Etymology of classical Latin
+- 473 Dictionaries of classical Latin
+- 475 Grammar of classical Latin
+- 477 Old, postclassical, Vulgar Latin
+- 478 Classical Latin usage
+- 479 Other Italic languages
+- 480 Classical Greek; Hellenic languages
+- 481 Writing system, phonology, phonetics
+- 482 Etymology of classical Greek
+- 483 Dictionaries of classical Greek
+- 485 Grammar of classical Greek
+- 487 Preclassical and postclassical Greek
+- 488 Classical Greek usage
+- 489 Other Hellenic languages
+- 490 Other languages
+- 491 East Indo-European and Celtic languages
+- 492 Afro-Asiatic languages
+- 493 Non-Semitic Afro-Asiatic languages
+- 494 Altaic, Uralic, Hyperborean Dravidian
+- 495 Languages of east and southeast Asia
+- 496 African languages
+- 497 North American native languages
+- 498 South American native languages
+- 499 Austronesian other languages
+- 500 Natural sciences and mathematics
+- 501 Philosophy and theory
+- 502 Miscellany
+- 503 Dictionaries encyclopedias
+- 505 Serial publications
+- 506 Organizations and management
+- 507 Education, research, related topics
+- 508 Natural history
+- 509 History, geographic treatment, biography
+- 510 Mathematics
+- 511 General principles of mathematics
+- 512 Algebra
+- 513 Arithmetic
+- 514 Topology
+- 515 Analysis
+- 516 Geometry
+- 518 Numerical analysis
+- 519 Probabilities and applied mathematics
+- 520 Astronomy and allied sciences
+- 521 Celestial mechanics
+- 522 Techniques, equipment materials
+- 523 Specific celestial bodies and phenomena
+- 525 Earth (Astronomical geography)
+- 526 Mathematical geography
+- 527 Celestial navigation
+- 528 Ephemerides
+- 529 Chronology
+- 530 Physics
+- 531 Classical mechanics
+- 532 Fluid mechanics
+- 533 Pneumatics (Gas mechanics)
+- 534 Sound and related vibrations
+- 535 Light and related radiation
+- 536 Heat
+- 537 Electricity and electronics
+- 538 Magnetism
+- 539 Modern physics
+- 540 Chemistry and allied sciences
+- 541 Physical chemistry
+- 542 Techniques, equipment materials
+- 543 Analytical chemistry
+- 546 Inorganic chemistry
+- 547 Organic chemistry
+- 548 Crystallography
+- 549 Mineralogy* 600 Technology (Applied sciences)
+- 550 Earth sciences
+- 551 Geology, hydrology, meteorology
+- 552 PetroIogy
+- 553 Economic geology
+- 554 Earth sciences Of Europe
+- 555 Earth sciences Of Asia
+- 556 Earth sciences Of Africa
+- 557 Earth sciences Of North America
+- 558 Earth sciences Of South America
+- 559 Earth sciences Of other areas
+- 560 Paleontology
+- 561 Paleobotany; fossil microorganisms
+- 562 Fossil invertebrates
+- 563 Fossil marine & seashore invertebrates
+- 564 Fossil Mollusca & Molluscoidea
+- 565 Fossil Arthropoda
+- 566 Fossil Chordata
+- 567 Fossil cold-blooded vertebrates
+- 568 FossiI Aves (birds)
+- 569 Fossil Mammalia
+- 570 Biology
+- 571 Physiology & related subjects
+- 572 Biochemistry
+- 573 Specific physiological systems in animals
+- 574 Unassigned
+- 575 ISpecific parts Of & systems in plants
+- 576 Genetics and evolution
+- 577 Ecology
+- 578 Natural history Of organisms
+- 579 Microorganisms, fungi & algae
+- 580 Plants
+- 581 Specific topics in natural history Of plants
+- 582 Plants n Oted for characteristics & flowers
+- 583 Eudicots and Ceratophyllales
+- 584 Monocots, ChIoranthaIes, magnoliids
+- 585 Pinophyta
+- 586 Cryptogamia
+- 587 Pteridophyta
+- 588 Bryophyta
+- 589 Unassigned
+- 590 Animals
+- 591 Specific topics in natural history Of animals
+- 592 Invertebrates
+- 593 Marine & seashore invertebrates
+- 594 Mollusca and Molluscoidea
+- 595 Arthropoda
+- 596 Chordata
+- 597 Cold-blooded vertebrates
+- 598 Aves
+- 599 Mammalia
+- 600 Technology (Applied sciences)
+- 601 Philosophy and theory
+- 602 Miscellany
+- 603 Dictionaries, encyclopedias, concordances
+- 604 Technical drawing, hazardous materials
+- 605 Serial publications
+- 606 Organizations
+- 607 Education, research, related topics
+- 608 Patents
+- 609 History, geographic treatment, biography
+- 610 Medicine and health
+- 611 Human anatomy, cytology, histology
+- 612 Human physiology
+- 613 Personal health safety
+- 614 Forensic medicine; incidence of disease
+- 615 Pharmacology and therapeutics
+- 616 Diseases
+- 617 Surgery related medical specialties
+- 618 Gynecology, obstetrics, pediatrics, geriatrics
+- 620 Engineering and allied operations
+- 621 Applied physics
+- 622 Mining and related operations
+- 623 Military and nautical engineering
+- 624 Civil engineering
+- 625 Engineering of railroads and roads
+- 627 Hydraulic engineering
+- 628 Sanitary engineering
+- 629 Other branches of engineering
+- 630 Agriculture and related technologies
+- 631 Techniques, equipment materials
+- 632 Plant injuries, diseases, pests
+- 633 Field and plantation crops
+- 634 Orchards, fruits, forestry
+- 635 Garden crops (Horticulture)
+- 636 Animal husbandry
+- 637 Processing dairy and related products
+- 638 Insect culture
+- 639 Hunting, fishing conservation
+- 640 Home and family management
+- 641 Food and drink
+- 642 Meals and table service
+- 643 Housing and household equipment
+- 644 Household utilities
+- 645 Household furnishings
+- 646 Sewing, clothing personal living
+- 647 Management of public households
+- 648 Housekeeping
+- 649 Child rearing home care of people
+- 650 Management and auxiliary services
+- 651 Office services
+- 652 Processes of written communication
+- 653 Shorthand
+- 657 Accounting
+- 658 General management
+- 659 Advertising and public relations
+- 660 Chemical engineering
+- 661 Technology of industrial chemicals
+- 662 Explosives, fuels related products
+- 663 Beverage technology
+- 664 Food technology
+- 665 Industrial oils, fats, waxes gases
+- 666 Ceramic allied technologies
+- 667 Cleaning, color coating technologies
+- 668 Technology of other organic products
+- 669 Metallurgy
+- 670 Manufacturing
+- 671 Metalworking primary metal products
+- 672 Iron, steel, other iron alloys
+- 673 Nonferrous metals
+- 674 Lumber processing, wood products, cork
+- 675 Leather and fur processing
+- 676 Pulp and paper technology
+- 677 Textiles
+- 678 Elastomers and elastomer products
+- 679 Other products of specific materials
+- 680 Manufacture of products for specific uses
+- 681 Precision instruments and other devices
+- 682 Small forge work (Blacksmithing)
+- 683 Hardware household appliances
+- 684 Furnishings and home workshops
+- 685 Leather, fur goods related products
+- 686 Printing and related activities
+- 687 Clothing and accessories
+- 688 Other final products packaging
+- 690 Construction of buildings
+- 691 Building materials
+- 692 Auxiliary construction practices
+- 693 Specific materials purposes
+- 694 Wood construction
+- 695 Rof covering
+- 696 Utilities
+- 697 Heating, ventilating air-conditioning
+- 698 Detail finishing
+* 700 The arts
+- 701 Philosophy of fine decorative arts
+- 702 Miscellany of fine and decorative arts
+- 703 Dictionaries of fine decorative arts
+- 704 Special topics in fine and decorative arts
+- 705 Serial publications of fine decorative arts
+- 706 Organizations management
+- 707 Education, research related topics
+- 708 Galleries, museums private collections
+- 709 History, geographic treatment, biography
+- 710 Area planning and landscape architecture Area
+- 711 planning (Civic art)
+- 712 Landscape architecture (Landscape design)
+- 713 Landscape architecture of trafficways
+- 714 Water features in landscape architecture
+- 715 Woody plants in landscape architecture
+- 716 Herbaceous plants in landscape architecture
+- 717 Structures in landscape architecture
+- 718 Landscape design of cemeteries
+- 719 Natural landscapes
+- 720 Architecture
+- 721 Architectural materials and structure
+- 722 Architecture from earliest times to ca. 300
+- 723 Architecture from ca. 300 to 1399
+- 724 Architecture from 1400
+- 725 Public structures
+- 726 Buildings for religious and related purposes
+- 727 Buildings for education research
+- 728 Residential and related buildings
+- 729 Design decoration
+- 730 Sculpture and related arts
+- 731 Processes, forms, subjects of sculpture
+- 732 Sculpture to ca. 500
+- 733 Greek, Etruscan, Roman sculpture
+- 734 Sculpture from ca. 500 to 1399
+- 735 Sculpture from 1400
+- 736 Carving and carvings
+- 737 Numismatics and sigillography
+- 738 Ceramic arts
+- 739 Art metalwork
+- 740 Design and related arts
+- 741 Drawing and drawings
+- 742 Perspective in drawing
+- 743 Drawing and drawings by subject
+- 744 Communication design, visual design, graphic design
+- 745 Decorative arts
+- 746 Textile arts
+- 747 Interior decoration
+- 748 Glass
+- 749 Furniture and accessories
+- 750 Painting and paintings
+- 751 Techniques, equipment, materials forms
+- 752 Color
+- 753 Symbolism, allegory, mythology, legend
+- 754 Genre paintings
+- 755 Religion
+- 757 Human figures
+- 758 Nature, cityscapes other subjects
+- 759 History, geographic treatment, biography
+- 760 Printmaking prints
+- 761 Relief processes (Block printing)
+- 763 Lithographic processes
+- 764 Chromolithography and serigraphy
+- 765 Metal engraving
+- 766 Mezzotinting, aquatinting, related processes
+- 767 Etching and drypoint
+- 769 Prints
+- 770 Photography, computer art, cinematography
+- 771 Techniques, equipment materials
+- 772 Metallic salt processes
+- 773 Pigment processes of printing
+- 774 Holography
+- 776 Computer art (Digital art)
+- 777 Cinematography and videography
+- 778 Specific fields kinds of photography
+- 779 Photographic images
+- 780 Music
+- 781 General principles and musical forms
+- 782 Vocal music
+- 783 Music for single voices
+- 784 Instruments instrumental ensembles
+- 785 Ensembles with one instrument per part
+- 786 Keyboard other instruments
+- 787 Stringed instruments (Chordophones)
+- 788 Wind instruments (Aerophones)
+- 790 Recreational and performing arts
+- 791 Public performances
+- 792 Stage presentations
+- 793 Indoor games and amusements
+- 794 Indoor games of skill
+- 795 Games of chance
+- 796 Athletic and outdoor sports and games
+- 797 Aquatic and air sports
+- 798 Equestrian sports and animal racing
+- 799 Fishing, hunting, shooting 
+- 800 Literature (Belles-lettres) and rhetoric
+- 801 Philosophy and theory
+- 802 Miscellany
+- 803 Dictionaries encyclopedias
+- 805 Serial publications
+- 806 Organizations and management
+- 807 Education, research, related topics
+- 808 Rhetoric collections of literature
+- 809 History, description criticism
+- 810 American literature in English
+- 811 American poetry in English
+- 812 American drama in English
+- 813 American fiction in English
+- 814 American essays in English
+- 815 American speeches in English
+- 816 American letters in English
+- 817 American humor and satire in English
+- 818 American miscellaneous writings
+- 820 English Old English literatures
+- 821 English poetry
+- 822 English drama
+- 823 English fiction
+- 824 English essays
+- 825 English speeches
+- 826 English letters
+- 827 English humor and satire
+- 828 English miscellaneous writings
+- 829 Old English (Anglo-Saxon) literature
+- 830 German related literatures
+- 831 German poetry
+- 832 German drama
+- 833 German fiction
+- 834 German essays
+- 835 German speeches
+- 836 German letters
+- 837 German humor and satire
+- 838 German miscellaneous writings
+- 839 Other Germanic literatures
+- 840 French and related literatures
+- 841 French poetry
+- 842 French drama
+- 843 French fiction
+- 844 French essays
+- 845 French speeches
+- 846 French letters
+- 847 French humor and satire
+- 848 French miscellaneous writings
+- 849 Occitan Catalan literatures
+- 850 Italian, Romanian related literatures
+- 851 Italian poetry
+- 852 Italian drama
+- 853 Italian fiction
+- 854 Italian essays
+- 855 Italian speeches
+- 856 Italian letters
+- 857 Italian humor and satire
+- 858 Italian miscellaneous writings
+- 859 Romanian related literatures
+- 860 Spanish Portuguese literatures
+- 861 Spanish poetry
+- 862 Spanish drama
+- 863 Spanish fiction
+- 864 Spanish essays
+- 865 Spanish speeches
+- 866 Spanish letters
+- 867 Spanish humor and satire
+- 868 Spanish miscellaneous writings
+- 869 Portuguese and Galician literatures
+- 870 Latin related Italic literatures
+- 871 Latin poetry
+- 872 Latin dramatic poetry and drama
+- 873 Latin epic poetry and fiction
+- 874 Latin lyric poetry
+- 875 Latin speeches
+- 876 Latin letters
+- 877 Latin humor and satire
+- 878 Latin miscellaneous writings
+- 879 Literatures of other Italic languages
+- 880 Classical Greek Hellenic literatures
+- 881 Classical Greek poetry
+- 882 Classical Greek dramatic poetry drama
+- 883 Classical Greek epic poetry and fiction
+- 884 Classical Greek lyric poetry
+- 885 Classical Greek speeches
+- 886 Classical Greek letters
+- 887 Classical Greek humor and satire
+- 888 Classical Greek miscellaneous writings
+- 889 Modern Greek literature
+- 890 Literatures of other languages
+- 891 East Indo-European and Celtic literatures
+- 892 Afro-Asiatic literatures
+- 893 Non-Semitic Afro-Asiatic literatures
+- 894 Altaic, Uralic, Hyperborean Dravidian
+- 895 Literatures of East and Southeast Asia
+- 896 African literatures
+- 897 North American native literatures
+- 898 South American native literatures
+- 899 Austronesian other literatures
+- 900 History geography
+- 901 Philosophy and theory of history
+- 902 Miscellany of history
+- 903 Dictionaries encyclopedias
+- 904 Collected accounts of events
+- 905 Serial publications of history
+- 906 Organizations management
+- 907 Education, research related topics
+- 908 Groups of people
+- 909 World history
+- 910 Geography and travel
+- 911 Historical geography
+- 912 Maps and plans of surface of earth
+- 913 Geography of and travel in ancient world
+- 914 Geography of and travel in Europe
+- 915 Geography of and travel in Asia
+- 916 Geography of and travel in Africa
+- 917 Geography of travel in North America
+- 918 Geography of travel in South America
+- 919 Geography of and travel in other areas
+- 920 Biography, genealogy, insignia
+- 929 Genealogy, names insignia
+- 930 History of ancient world to ca. 499
+- 931 China to 420
+- 932 Egypt to 640
+- 933 Palestine to 70
+- 934 India to 647
+- 935 Mesopotamia Iranian Plateau to 637
+- 936 Europe north west of Italy to ca. 499
+- 937 Italy adjacent territories to 476
+- 938 Greece to 323
+- 939 Other parts of ancient world
+- 940 History of Europe
+- 941 British Isles
+- 942 England and Wales
+- 943 Germany and central Europe
+- 944 France and Monaco
+- 945 Italy, San Marino, Vatican City, Malta
+- 946 Spain, Andorra, Gibrattar, Portugal
+- 947 Russia and east Europe
+- 948 Scandinavia and Finland
+- 949 Other parts of Europe
+- 950 History of Asia
+- 951 China and adjacent areas
+- 952 Japan
+- 953 Arabian Peninsula and adjacent areas
+- 954 India south Asia
+- 955 Iran
+- 956 Middle East (Near East)
+- 957 Siberia (Asiatic Russia)
+- 958 Central Asia
+- 959 Southeast Asia
+- 960 History of Africa
+- 961 Tunisia and Libya
+- 962 Egypt, Sudan, South Sudan
+- 963 Ethiopia and Eritrea
+- 964 Morocco, Ceuta, Mellila, Western Sahara
+- 965 Algeria
+- 966 West Africa and offshore islands
+- 967 Central Africa and offshore islands
+- 968 South Africa southern Africa
+- 969 South Indian Ocean islands
+- 970 History of North America
+- 971 Canada
+- 972 Mexico, Central America, West Indies
+- 973 United States
+- 974 Northeastern United States
+- 975 Southeastern United States
+- 976 South central United States
+- 977 North central United States
+- 978 Western United States
+- 979 Great Basin Pacific Slope region
+- 980 History of South America
+- 981 Brazil
+- 982 Argentina
+- 983 Chile
+- 984 Bolivia
+- 985 Peru
+- 986 Colombia and Ecuador
+- 987 Venezuela
+- 988 Guiana
+- 989 Paraguay and Uruguay
+- 990 History of other areas
+- 993 New Zealand
+- 994 Australia
+- 995 New Guinea Melanesia
+- 996 Polynesia Pacific Ocean islands
+- 997 Atlantic Ocean islands
+- 998 Arctic islands and Antarctica
+- 999 Extraterrestrial worlds

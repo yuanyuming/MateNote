@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"text","text":"![[Reverse Auction-based Computation Offloading and Resource Allocation in Mobile Cloud-Edge Computing#Abstract]]","id":"d955a442d01f020c","x":680,"y":-14720,"width":740,"height":615},
+		{"type":"text","text":"![[Reverse Auction-based Computation Offloading and Resource Allocation in Mobile Cloud-Edge Computing#1 INTRODUCTION]]","id":"a54ea3ac05ca8254","x":680,"y":-14040,"width":740,"height":2173},
+		{"type":"text","text":"![[Reverse Auction-based Computation Offloading and Resource Allocation in Mobile Cloud-Edge Computing#2 RELATED WORK]]","id":"6c48b1fa3e76cdbf","x":2160,"y":-14720,"width":740,"height":1913},
+		{"type":"text","text":"![[Reverse Auction-based Computation Offloading and Resource Allocation in Mobile Cloud-Edge Computing#3 SYSTEM MODEL]]","id":"cb430ade3b64d671","x":3640,"y":-14720,"width":740,"height":4414},
+		{"type":"text","text":"![[Reverse Auction-based Computation Offloading and Resource Allocation in Mobile Cloud-Edge Computing#4 PROBLEM FORMULATION]]","id":"b9797a4c124b6bee","x":5120,"y":-14720,"width":740,"height":2079},
+		{"type":"text","text":"![[Reverse Auction-based Computation Offloading and Resource Allocation in Mobile Cloud-Edge Computing#5 PROBLEM TRANSFORMATION AND DECOMPOSITION]]","id":"0d7468d1942f50aa","x":6600,"y":-14720,"width":740,"height":1111},
+		{"type":"text","text":"![[Reverse Auction-based Computation Offloading and Resource Allocation in Mobile Cloud-Edge Computing#6 MAIN APPROACH]]","id":"028037363c366da4","x":8080,"y":-14720,"width":740,"height":8514},
+		{"type":"text","text":"![[Reverse Auction-based Computation Offloading and Resource Allocation in Mobile Cloud-Edge Computing#7 PERFORMANCE EVALUATION]]","id":"fad28bd0c4b12b90","x":9560,"y":-14720,"width":740,"height":9905},
+		{"type":"text","text":"![[Reverse Auction-based Computation Offloading and Resource Allocation in Mobile Cloud-Edge Computing#8 CONCLUSION]]","id":"a640d8b2b45c227e","x":11040,"y":-14720,"width":740,"height":443},
+		{"type":"text","text":"![[Abstract Set#Reverse Auction-based Computation Offloading and Resource Allocation in Mobile Cloud-Edge Computing]]","id":"a6004a80bf130934","x":1476,"y":-14720,"width":600,"height":312}
+	],
+	"edges":[]
+}

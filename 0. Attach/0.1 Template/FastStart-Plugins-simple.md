@@ -1,0 +1,11 @@
+buttons
+obsidian-view-mode-by-frontmatter
+obsidian-banners
+dataview
+obsidian-admonition
+recent-files-obsidian
+metaedit
+quickadd
+obsidian-react-components
+obsidian-admonition
+workspaces-plus

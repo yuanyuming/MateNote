@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"type":"text","text":"![[An Overview of Multi-Agent Reinforcement Learning from Game Theoretical Perspective#6 Learning in Identical-Interest Games]]","id":"64ecdd5ad9bfa75a","x":4580,"y":-8183,"width":740,"height":7985},
+		{"type":"text","text":"![[An Overview of Multi-Agent Reinforcement Learning from Game Theoretical Perspective#7 Learning in Zero-Sum Games]]","id":"80fdeab99a9739d7","x":6155,"y":-8183,"width":740,"height":15378},
+		{"type":"text","text":"![[Deep Reinforcement Learning An Overview#8 BRIEF SUMMARY]]","id":"71d903bbe5d8c5fe","x":7730,"y":-8183,"width":740,"height":2467},
+		{"type":"text","text":"![[Deep Reinforcement Learning An Overview#9 DISCUSSIONS]] ![[An Overview of Multi-Agent Reinforcement Learning from Game Theoretical Perspective#Abstract]]","id":"5a9f327938ce0e9f","x":9305,"y":-8183,"width":740,"height":4120},
+		{"type":"text","text":"# An Overview of Multi-Agent Reinforcement Learning from Game Theoretical Perspective","id":"3d18e21984d49e4f","x":-1796,"y":-8920,"width":1052,"height":301},
+		{"type":"text","text":"![[An Overview of Multi-Agent Reinforcement Learning from Game Theoretical Perspective#Abstract]]","id":"20c13293da9977cd","x":-4870,"y":-8183,"width":740,"height":2008},
+		{"type":"text","text":"![[An Overview of Multi-Agent Reinforcement Learning from Game Theoretical Perspective#1. Introduction]]","id":"ce74f66fb61aae73","x":-3295,"y":-8183,"width":740,"height":4328},
+		{"type":"text","text":"![[An Overview of Multi-Agent Reinforcement Learning from Game Theoretical Perspective#2 Single-Agent RL]]","id":"6e57e57297a35000","x":-1720,"y":-8183,"width":740,"height":4087},
+		{"type":"text","text":"![[An Overview of Multi-Agent Reinforcement Learning from Game Theoretical Perspective#3 Multi-Agent RL]]","id":"732eedf6c2535aea","x":-145,"y":-8183,"width":740,"height":17103},
+		{"type":"text","text":"![[An Overview of Multi-Agent Reinforcement Learning from Game Theoretical Perspective#4 Grand Challenges of MARL]]","id":"c96508739503868c","x":1430,"y":-8183,"width":740,"height":3455},
+		{"type":"text","text":"![[An Overview of Multi-Agent Reinforcement Learning from Game Theoretical Perspective#5 A Survey of MARL Surveys]]","id":"3e7eedbe52f394ed","x":3005,"y":-8183,"width":740,"height":4723},
+		{"type":"text","text":" ![[An Overview of Multi-Agent Reinforcement Learning from Game Theoretical Perspective#10. Future Directions of Interest]]","id":"9b605c0435969592","x":10880,"y":-8000,"width":740,"height":1479}
+	],
+	"edges":[
+		{"id":"a53b3fe93e068e2d","fromNode":"3d18e21984d49e4f","fromSide":"bottom","toNode":"64ecdd5ad9bfa75a","toSide":"top"},
+		{"id":"a62cd22654b73f28","fromNode":"3d18e21984d49e4f","fromSide":"bottom","toNode":"80fdeab99a9739d7","toSide":"top"},
+		{"id":"4c497d724b7dd72f","fromNode":"3d18e21984d49e4f","fromSide":"bottom","toNode":"71d903bbe5d8c5fe","toSide":"top"},
+		{"id":"b02ee569a2950a68","fromNode":"3d18e21984d49e4f","fromSide":"bottom","toNode":"5a9f327938ce0e9f","toSide":"top"},
+		{"id":"acc1ca83bd8a74a0","fromNode":"3d18e21984d49e4f","fromSide":"bottom","toNode":"9b605c0435969592","toSide":"top"},
+		{"id":"c1648f0bc9c920ab","fromNode":"3d18e21984d49e4f","fromSide":"bottom","toNode":"20c13293da9977cd","toSide":"top"},
+		{"id":"85756d887e97de7a","fromNode":"3d18e21984d49e4f","fromSide":"bottom","toNode":"ce74f66fb61aae73","toSide":"top"},
+		{"id":"ee4fd5295d855dec","fromNode":"3d18e21984d49e4f","fromSide":"bottom","toNode":"6e57e57297a35000","toSide":"top"},
+		{"id":"826900003a9be340","fromNode":"3d18e21984d49e4f","fromSide":"bottom","toNode":"732eedf6c2535aea","toSide":"top"},
+		{"id":"4be2b083ea0d8591","fromNode":"3d18e21984d49e4f","fromSide":"bottom","toNode":"c96508739503868c","toSide":"top"}
+	]
+}

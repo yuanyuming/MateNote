@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"text","text":"![[Deep Reinforcement Learning-Based Workload Scheduling for Edge Computing#Abstract]]","id":"39ae26b9324adfc6","x":440,"y":-10699,"width":740,"height":499},
+		{"type":"text","text":"![[Deep Reinforcement Learning-Based Workload Scheduling for Edge Computing#1. Introduction]]","id":"20b9f5112f715437","x":440,"y":-10141,"width":740,"height":1663},
+		{"type":"text","text":"![[Deep Reinforcement Learning-Based Workload Scheduling for Edge Computing#2. Related work]]","id":"ac583b8bdd022920","x":440,"y":-8440,"width":740,"height":1335},
+		{"type":"text","text":"![[Deep Reinforcement Learning-Based Workload Scheduling for Edge Computing#3. System model and problem formulation]]","id":"b74d0fc5a3e409d4","x":2050,"y":-10699,"width":740,"height":5485},
+		{"type":"text","text":"![[Deep Reinforcement Learning-Based Workload Scheduling for Edge Computing#4. The DQN-based workload scheduling approach]]","id":"ca4de788ca35d288","x":3660,"y":-10699,"width":740,"height":3007},
+		{"type":"text","text":"![[Deep Reinforcement Learning-Based Workload Scheduling for Edge Computing#5. Evaluation results]]","id":"0824d4faae3e7a98","x":5270,"y":-10699,"width":740,"height":8865},
+		{"type":"text","text":"![[Deep Reinforcement Learning-Based Workload Scheduling for Edge Computing#6. Conclusion]]","id":"17ffdb93d01d7a29","x":6880,"y":-10699,"width":740,"height":1374},
+		{"type":"text","text":"![[Abstract Set#Deep Reinforcement Learning-Based Workload Scheduling for Edge Computing]]","id":"fe320739211a64b3","x":1254,"y":-10699,"width":600,"height":285}
+	],
+	"edges":[]
+}

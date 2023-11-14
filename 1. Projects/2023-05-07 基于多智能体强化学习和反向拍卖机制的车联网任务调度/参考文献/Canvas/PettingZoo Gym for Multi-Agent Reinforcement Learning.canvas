@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"file","file":"1.Projects/2023-05-07 基于多智能体强化学习和反向拍卖机制的车联网任务调度/参考文献/PettingZoo Gym for Multi-Agent Reinforcement Learning.md","id":"7649b571f763b68d","x":-370,"y":-5183,"width":740,"height":12684},
+		{"type":"text","text":"![[PettingZoo Gym for Multi-Agent Reinforcement Learning#Abstract]]","id":"81fe81a2456b89d5","x":1528,"y":-5183,"width":740,"height":371},
+		{"type":"text","text":"![[PettingZoo Gym for Multi-Agent Reinforcement Learning#2 Background and Related Works]]","id":"b97cae85adb67a34","x":3426,"y":-5183,"width":740,"height":2634},
+		{"type":"text","text":"![[PettingZoo Gym for Multi-Agent Reinforcement Learning#3. PettingZoo Design Goals]]","id":"2b5eddb9e09cbde7","x":5324,"y":-5183,"width":740,"height":823},
+		{"type":"text","text":"![[PettingZoo Gym for Multi-Agent Reinforcement Learning#5. The Agent Environment Cycle Games Model]]","id":"93656cf73904ed69","x":7222,"y":-5172,"width":740,"height":1515},
+		{"type":"text","text":"![[PettingZoo Gym for Multi-Agent Reinforcement Learning#7. Default Environments]]","id":"e0f3b82956089ff6","x":9120,"y":-5172,"width":740,"height":294},
+		{"type":"text","text":"![[PettingZoo Gym for Multi-Agent Reinforcement Learning#8 Adoption]]","id":"1bf707623d3fb548","x":9120,"y":-4799,"width":740,"height":299},
+		{"type":"text","text":"![[PettingZoo Gym for Multi-Agent Reinforcement Learning#9 Conclusion]]","id":"ed61f75c6ff3d0ce","x":9120,"y":-4442,"width":740,"height":641},
+		{"type":"text","text":"![[PettingZoo Gym for Multi-Agent Reinforcement Learning#1 Introduction]]","id":"db9ce839d3dd5ba5","x":1528,"y":-4720,"width":740,"height":1025},
+		{"type":"text","text":"![[PettingZoo Gym for Multi-Agent Reinforcement Learning#4. Case Studies of Problems With The POSG Model in MARL]]","id":"09b8949659c57e01","x":3426,"y":-2549,"width":740,"height":2540},
+		{"type":"text","text":"![[PettingZoo Gym for Multi-Agent Reinforcement Learning#6. API Design]]","id":"1141e3b4337fb1e9","x":5324,"y":-4360,"width":740,"height":2428},
+		{"type":"text","text":"![[Abstract Set#PettingZoo Gym for Multi-Agent Reinforcement Learning]]","id":"0f4e85f398461ed5","x":457,"y":-5183,"width":600,"height":312}
+	],
+	"edges":[]
+}

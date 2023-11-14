@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"file","file":"1.Projects/2023-05-07 基于多智能体强化学习和反向拍卖机制的车联网任务调度/参考文献/Scheduling of Time-Varying Workloads Using Reinforcement Learning.md","id":"37f6d0b2ca931f40","x":-370,"y":-5903,"width":740,"height":11807},
+		{"type":"text","text":"![[Scheduling of Time-Varying Workloads Using Reinforcement Learning#Abstract]]","id":"ba460cdcb7d0d05b","x":1048,"y":-5903,"width":740,"height":443},
+		{"type":"text","text":"![[Scheduling of Time-Varying Workloads Using Reinforcement Learning#2 Background and Related Work]]","id":"d2ec0128eb7d9fc2","x":2466,"y":-5903,"width":740,"height":1273},
+		{"type":"text","text":"![[Scheduling of Time-Varying Workloads Using Reinforcement Learning#3 Design of TVW-RL]]","id":"ed4a355a27e34d9f","x":3884,"y":-5903,"width":740,"height":4242},
+		{"type":"text","text":"![[Scheduling of Time-Varying Workloads Using Reinforcement Learning#4 Evaluations]]","id":"ea0612cbc4e62b80","x":5302,"y":-5903,"width":740,"height":5292},
+		{"type":"text","text":"![[Scheduling of Time-Varying Workloads Using Reinforcement Learning#5 Conclusion]]","id":"fb5d9ab051b5cad6","x":6720,"y":-5903,"width":740,"height":360},
+		{"type":"text","text":"![[Scheduling of Time-Varying Workloads Using Reinforcement Learning#1 Introduction]]","id":"fddba2649afbadab","x":1048,"y":-5460,"width":740,"height":1475},
+		{"type":"text","text":"![[Abstract Set#Scheduling of Time-Varying Workloads Using Reinforcement Learning]]","id":"43be03faebe702e5","x":370,"y":-5903,"width":600,"height":312}
+	],
+	"edges":[]
+}

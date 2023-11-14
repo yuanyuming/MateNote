@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"type":"text","text":"![[A Truthful Reverse-Auction Mechanism for Computation Offloading in Cloud-Enabled Vehicular Network#Abstract]]","id":"62c45915ea5d05d1","x":480,"y":-10308,"width":740,"height":668},
+		{"type":"text","text":"![[A Truthful Reverse-Auction Mechanism for Computation Offloading in Cloud-Enabled Vehicular Network#I. INTRODUCTION]]","id":"92a01c8a0183df94","x":480,"y":-9591,"width":740,"height":2111},
+		{"type":"text","text":"![[A Truthful Reverse-Auction Mechanism for Computation Offloading in Cloud-Enabled Vehicular Network#II. RELATED WORK]]","id":"6107d59bd22a191f","x":480,"y":-7362,"width":740,"height":1987},
+		{"type":"text","text":"![[A Truthful Reverse-Auction Mechanism for Computation Offloading in Cloud-Enabled Vehicular Network#III. SYSTEM MODEL AND DESIGN TARGETS]]","id":"59b6a8fc181c7028","x":1920,"y":-10308,"width":740,"height":3712},
+		{"type":"text","text":"![[A Truthful Reverse-Auction Mechanism for Computation Offloading in Cloud-Enabled Vehicular Network#IV.VCG-BASED REVERSE AUCTION FOR COMPUTATION OFFLOADING]]","id":"d4c691023a85662c","x":3360,"y":-10308,"width":740,"height":3648},
+		{"type":"text","text":"![[A Truthful Reverse-Auction Mechanism for Computation Offloading in Cloud-Enabled Vehicular Network#V. UNILATERAL-MATCHING-BASED REVERSE AUCTION FOR COMPUTATION OFFLOADING]]","id":"ddbc1b3681a16e12","x":4800,"y":-10308,"width":740,"height":3878},
+		{"type":"text","text":"![[A Truthful Reverse-Auction Mechanism for Computation Offloading in Cloud-Enabled Vehicular Network#VI. NUMERICAL RESULTS AND PERFORMANCE]]","id":"cd51ab63bf843160","x":6240,"y":-10308,"width":740,"height":7189},
+		{"type":"text","text":"![[A Truthful Reverse-Auction Mechanism for Computation Offloading in Cloud-Enabled Vehicular Network#VII. CONCLUSION]]","id":"14a2b6b6904fb3f0","x":7680,"y":-10308,"width":740,"height":377},
+		{"type":"text","text":"![[Abstract Set#A Truthful Reverse-Auction Mechanism for Computation Offloading in Cloud-Enabled Vehicular Network]]","id":"9d24a192b5d06ed0","x":1272,"y":-10308,"width":600,"height":378}
+	],
+	"edges":[]
+}

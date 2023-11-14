@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"text","text":"![[Learning to Bid with AuctionGym#ABSTRACT]]","id":"6d57e059426df2c9","x":440,"y":-4889,"width":740,"height":661},
+		{"type":"text","text":"![[Learning to Bid with AuctionGym#1 INTRODUCTION & MOTIVATION]]","id":"5107132bfbafdcea","x":440,"y":-4162,"width":740,"height":1231},
+		{"type":"text","text":"![[Learning to Bid with AuctionGym#2 BACKGROUND & RELATED WORK]]","id":"6f3e8cf83260526e","x":440,"y":-2880,"width":740,"height":1169},
+		{"type":"text","text":"![[Learning to Bid with AuctionGym#3 LEARNING TO BID]]","id":"f73cc8d8ddfca12b","x":1950,"y":-4889,"width":740,"height":3679},
+		{"type":"text","text":"![[Learning to Bid with AuctionGym#4 AUCTION GYM]]","id":"69d1991147220963","x":3460,"y":-4889,"width":740,"height":2428},
+		{"type":"text","text":"![[Learning to Bid with AuctionGym#5 EXPERIMENTAL RESULTS & DISCUSSION]]","id":"cad242af0f64837b","x":4970,"y":-4889,"width":740,"height":1729},
+		{"type":"text","text":"![[Learning to Bid with AuctionGym#6 CONCLUSIONS & OUTLOOK]]","id":"2bfca2585b6b2656","x":6480,"y":-4889,"width":740,"height":473},
+		{"type":"text","text":"![[Abstract Set#Learning to Bid with AuctionGym]]","id":"9b3930bfb8e188f4","x":1236,"y":-4889,"width":600,"height":312}
+	],
+	"edges":[]
+}

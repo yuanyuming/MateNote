@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"text","text":"![[Performance and Cost-Efficient Spark Job Scheduling Based on Deep Reinforcement Learning in Cloud Computing Environments#Abstract]]","id":"1f5ea76a43b41c1c","x":560,"y":-13980,"width":740,"height":491},
+		{"type":"text","text":"![[Performance and Cost-Efficient Spark Job Scheduling Based on Deep Reinforcement Learning in Cloud Computing Environments#1 INTRODUCTION]]","id":"ff11e50834c24e91","x":560,"y":-13390,"width":740,"height":2461},
+		{"type":"text","text":"![[Performance and Cost-Efficient Spark Job Scheduling Based on Deep Reinforcement Learning in Cloud Computing Environments#2 RELATED WORK]]","id":"a8bd7f725cf083d0","x":2080,"y":-13980,"width":740,"height":4022},
+		{"type":"text","text":"![[Performance and Cost-Efficient Spark Job Scheduling Based on Deep Reinforcement Learning in Cloud Computing Environments#3 PROBLEM FORMULATION]]","id":"63af4d206658aac2","x":3600,"y":-13980,"width":740,"height":2345},
+		{"type":"text","text":"![[Performance and Cost-Efficient Spark Job Scheduling Based on Deep Reinforcement Learning in Cloud Computing Environments#4. REINFORCEMENT LEARNING (RL) MODEL]]","id":"a44e77f4563579ec","x":5120,"y":-13980,"width":740,"height":5626},
+		{"type":"text","text":"![[Performance and Cost-Efficient Spark Job Scheduling Based on Deep Reinforcement Learning in Cloud Computing Environments#5 DEEPRL AGENTS FOR JOB SCHEDULING]]","id":"a24ba42ca85ce5fc","x":6640,"y":-13980,"width":740,"height":3455},
+		{"type":"text","text":"![[Performance and Cost-Efficient Spark Job Scheduling Based on Deep Reinforcement Learning in Cloud Computing Environments#6 RL ENVIRONMENT DESIGN AND IMPLEMENTATION]]","id":"7ad48deff2086bc9","x":8160,"y":-13980,"width":740,"height":1973},
+		{"type":"text","text":"![[Performance and Cost-Efficient Spark Job Scheduling Based on Deep Reinforcement Learning in Cloud Computing Environments#7 PERFORMANCE EVALUATION]]","id":"bf1922df96199ad6","x":9680,"y":-13980,"width":740,"height":9405},
+		{"type":"text","text":"![[Performance and Cost-Efficient Spark Job Scheduling Based on Deep Reinforcement Learning in Cloud Computing Environments#8. CONCLUSIONS AND FUTURE WORK]]","id":"6322d4c2891018be","x":11200,"y":-13980,"width":740,"height":757},
+		{"type":"text","text":"![[Abstract Set#Performance and Cost-Efficient Spark Job Scheduling Based on Deep Reinforcement Learning in Cloud Computing Environments]]","id":"5c77651e34d977a0","x":1375,"y":-13980,"width":600,"height":491}
+	],
+	"edges":[]
+}

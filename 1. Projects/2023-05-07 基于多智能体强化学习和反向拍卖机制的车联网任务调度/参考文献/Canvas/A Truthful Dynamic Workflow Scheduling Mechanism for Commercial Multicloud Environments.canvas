@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"type":"text","text":"![[A Truthful Dynamic Workflow Scheduling Mechanism for Commercial Multicloud Environments#Abstract]]","id":"b984f3cc13dca0af","x":410,"y":-8793,"width":740,"height":382},
+		{"type":"text","text":"![[A Truthful Dynamic Workflow Scheduling Mechanism for Commercial Multicloud Environments#1. INTRODUCTION]]","id":"ab205f4794f5caa3","x":410,"y":-8350,"width":740,"height":1478},
+		{"type":"text","text":"![[A Truthful Dynamic Workflow Scheduling Mechanism for Commercial Multicloud Environments#2. RELATED WORK]]","id":"ca910b4edf3fd17b","x":410,"y":-6818,"width":740,"height":1939},
+		{"type":"text","text":"![[A Truthful Dynamic Workflow Scheduling Mechanism for Commercial Multicloud Environments#3. MODEL]]","id":"edcb56463b8c0812","x":410,"y":-4748,"width":740,"height":752},
+		{"type":"text","text":"![[A Truthful Dynamic Workflow Scheduling Mechanism for Commercial Multicloud Environments#4. PROBLEM OVERVIEW]]","id":"8e08d778b154374e","x":410,"y":-3897,"width":740,"height":1169},
+		{"type":"text","text":"![[A Truthful Dynamic Workflow Scheduling Mechanism for Commercial Multicloud Environments#5. BOSS BIOBJECTIVE SCHEDULING STRATEGY]]","id":"c1b3eb8876358e2e","x":2522,"y":-8793,"width":740,"height":2259},
+		{"type":"text","text":"![[A Truthful Dynamic Workflow Scheduling Mechanism for Commercial Multicloud Environments#7. EXAMPLE]]","id":"efb8301ebd85a52d","x":4634,"y":-8793,"width":740,"height":1661},
+		{"type":"text","text":"![[A Truthful Dynamic Workflow Scheduling Mechanism for Commercial Multicloud Environments#9. CONCLUSION]]","id":"416223bfefc73301","x":6745,"y":-8793,"width":740,"height":382},
+		{"type":"text","text":"![[A Truthful Dynamic Workflow Scheduling Mechanism for Commercial Multicloud Environments#6. DYNAMIC WORKFLOW SCHEDULING]]","id":"f6e5e2e146b93a21","x":2522,"y":-6409,"width":740,"height":3322},
+		{"type":"text","text":"![[A Truthful Dynamic Workflow Scheduling Mechanism for Commercial Multicloud Environments#8. EVALUATION]]","id":"238c4f00a6fd9fde","x":4634,"y":-7063,"width":740,"height":4630},
+		{"type":"text","text":"![[Abstract Set#A Truthful Dynamic Workflow Scheduling Mechanism for Commercial Multicloud Environments]]","id":"876e24b6ed49a56a","x":1237,"y":-8793,"width":600,"height":312}
+	],
+	"edges":[]
+}
