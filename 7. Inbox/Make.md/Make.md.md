@@ -31,41 +31,49 @@
 
 - navigate, create and organize your Spaces in drag-and-drop interface.
 
-- The Navigator is an easy to use yet powerful tool for getting the most out of your spaces.
-- You can use drag and drop to quickly reorder files, pin them to spaces or move/copy files between spaces.
-- Learn more in [[Make.md]]
+- getting the most out of your spaces.
+- drag and drop
+	- reorder files
+	- pin them to spaces
+	- move/copy files between spaces.
+- Learn more in [[Navigating your Spaces]]
 
 ## Space View
 
-- Make each of your spaces and items unique and customized with [Space View](https://www.make.md/docs/Spaces/Space%20View).
-- Whether you want a simple list of all the items in your space or create an interactive dashboard or a minimalistic space for focus, you can use do it in the space view.
+- Make spaces and items unique and customized with [[Space View]]
+- Whether you want
+	- a simple list of all the items in your space
+	- create an interactive dashboard
+	- a minimalistic space for focus
 
-- Make each of your spaces personal and interactive to suite the workflow and vibe.
-- When you open a space in the main view, you will get a fully customizable view where you can create custom workflows, make a layout or match the vibe.
-- Learn more about creating and customizing the [Space View](https://www.make.md/docs/Spaces/Space%20View)
+- Make of your spaces suite the workflow and vibe.
+- fully customizable view
+	- create custom workflows
+	- make a layout
+	- match the vibe.
+- Learn more in [[Space View]]
 
 ## Managing Tags
 
 - Manage your tags and navigate them as if they're spaces.
-- Learn more about managing tags in [Tags](https://www.make.md/docs/Spaces/Tags)
+- Learn more in [[Tags]]
 
 ## Context
 
-- [Contexts](https://www.make.md/docs/Contexts) adds structure and meaning to your spaces by transforming it into a database and defining a set list of properties for your space.
-- Whether it's to track status on project management, ratings in your media library or fun facts about your friends.
+- Contexts adds structure and meaning to spaces by transforming it into a database and defining a set list of properties.
+- Usages
+	- track status on project management
+	- ratings in your media library
+	- fun facts about your friends
 
 - Each of your space creates a context which adds structure and meaning to what's inside the space.
     - For example, your book space can now have properties such as author, genre, cover photo, which you can then display, sort and filter anyway you want or connect to other contexts.
-- Contexts are extremely powerful yet simple way of creating databases from your space.
-- Learn more about setting up and customizing your contexts in [Contexts](https://www.make.md/docs/Contexts)
-
-
-
-
+- creating databases from your space.
+- Learn more about in [[Contexts]]
 
 # 🖊️ Intuitive Editing with Flow
 
-- Discover the power of the [Flow Editor](https://www.make.md/docs/Flow%20Editor), revolutionizing your editor experience with intuitive features designed to let your ideas flourish effortlessly.
+- [[Flow Editor]], revolutionizing editor experience with intuitive features designed to let your ideas flourish effortlessly.
 
 ## Inline Context
 
@@ -89,8 +97,8 @@
 
 # 🤩 Blink
 
-- Ideas can come any time even if you're not working on it.
-- With [Blink](https://www.make.md/docs/Blink), you can quickly capture your ideas anywhere without ever leaving your current one, enhancing efficiency and focus.  
+- Ideas can come any time.
+- With [[Blink]], capture your ideas anywhere without leaving, enhancing efficiency and focus.  
     _Blink is currently being reworked, stay tuned!_
 
 
