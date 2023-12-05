@@ -1,6 +1,8 @@
 ---
 desc: 用来集中存放通过button插件创建按钮，以便其他笔记调用
+date updated: 2023-12-05 15:08
 ---
+
 ## 常用工具
 
 ```button
@@ -9,6 +11,7 @@ type command
 action Hotkeys for specific files: Open 50-Inbox/Website/carbon 代码高亮分享
 class circle_btn blank
 ```
+
 ^button-carbon
 
 ```button
@@ -17,6 +20,7 @@ type link
 action https://emojixd.com/
 class circle_btn blank
 ```
+
 ^button-emoji
 
 ```button
@@ -25,6 +29,7 @@ type command
 action Hotkeys for specific files: Open 50-Inbox/Website/文本处理-textce
 class circle_btn blank
 ```
+
 ^button-textools
 
 ```button
@@ -33,6 +38,7 @@ type command
 action Hotkeys for specific files: Open 50-Inbox/Website/表格转换-tableconvert
 class circle_btn blank
 ```
+
 ^button-table
 
 ```button
@@ -41,6 +47,7 @@ type command
 action QuickAdd: 表格编辑
 class circle_btn blank
 ```
+
 ^button-tablehover
 
 ```button
@@ -49,6 +56,7 @@ type command
 action Templater: Insert 0. Attach/0.1 Template/tp/tp_foldermoc-Include-subfolders.md
 class  circle_btn blank
 ```
+
 ^button-genmoc
 
 ```button
@@ -57,6 +65,7 @@ type note(untitled) template
 action tp-笔记收集箱
 class  tiny
 ```
+
 ^button-inbox
 
 ```button
@@ -65,6 +74,7 @@ type command
 action QuickAdd: inbox
 class circle_btn blank
 ```
+
 ^button-inbox2
 
 ```button
@@ -73,8 +83,8 @@ type command
 action Templater: Insert 0. Attach/0.1 Template/tp/tp-插件启停模板.md
 class  circle_btn blank
 ```
-^button-enableplugin
 
+^button-enableplugin
 
 ## 网页链接
 
@@ -84,6 +94,7 @@ type command
 action Hotkeys for specific files: Open 50-Inbox/Website/Cubox
 class circle_btn blank
 ```
+
 ^button-cubox
 
 ```button
@@ -92,6 +103,7 @@ type link
 action https://douban.com
 class circle_btn blank
 ```
+
 ^button-douban
 
 ```button
@@ -100,6 +112,7 @@ type command
 action Hotkeys for specific files: Open 50-Inbox/Website/vika
 class circle_btn blank
 ```
+
 ^button-vika
 
 ```button
@@ -108,6 +121,7 @@ type link
 action https://kknwfe6755.feishu.cn/docs/doccn67RYLVN4IQZiJTwviIdnog?from=from_copylink
 class circle_btn blank
 ```
+
 ^button-feishu
 
 ```button
@@ -116,6 +130,7 @@ type link
 action https://ob.pory.app/
 class circle_btn blank
 ```
+
 ^button-plugin
 
 ## 命令列表
@@ -126,6 +141,7 @@ type command
 action QuickAdd: 打开任务看板
 class blank
 ```
+
 ^button-kanban
 
 ```button
@@ -134,6 +150,7 @@ type command
 action QuickAdd: 打开今天日记
 class blank
 ```
+
 ^button-richeng
 
 ```button
@@ -142,6 +159,7 @@ type command
 action QuickAdd: 随笔记录
 class grad_button g_yellow
 ```
+
 ^button-suibi
 
 ```button
@@ -150,6 +168,7 @@ type command
 action QuickAdd: 添加任务
 class grad_button g_green
 ```
+
 ^button-renwu
 
 ```button
@@ -158,6 +177,7 @@ type command
 action QuickAdd: 随笔记录
 class blank
 ```
+
 ^button-suibi2
 
 ```button
@@ -166,6 +186,7 @@ type command
 action QuickAdd: 添加任务
 class blank
 ```
+
 ^button-renwu2
 
 ```button
@@ -174,23 +195,27 @@ type command
 action QuickAdd: memos-popover
 class grad_button g_lightgreen
 ```
+
 ^button-memos
 
-
 ## 常用操作
+
 ```button
 name <svg t="1636198428536" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="11778" width="30" height="30"><path d="M0 184.32a81.92 81.92 0 0 1 81.92-81.92h189.57312a81.92 81.92 0 0 1 69.90848 39.19872L373.76 194.56H839.68a81.92 81.92 0 0 1 81.92 81.92v634.88H40.96a40.96 40.96 0 0 1-40.96-40.96V184.32z" fill="#40A9FF" p-id="11779"></path><path d="M210.95424 307.2h725.54496a81.92 81.92 0 0 1 80.66048 96.23552l-87.21408 491.52A81.92 81.92 0 0 1 849.28512 962.56H71.68l57.7536-581.5296A81.92 81.92 0 0 1 210.95424 307.2z" fill="#69C0FF" p-id="11780"></path><path d="M0 880.64a41.35936 41.35936 0 0 0 70.656 5.53984L81.92 870.4v92.16a81.92 81.92 0 0 1-81.92-81.92z" fill="#69C0FF" p-id="11781"></path><path d="M552.96 450.56L419.84 614.4h71.68v133.12h122.88V614.4h71.68L552.96 450.56zM491.52 768h122.88v40.96H491.52zM491.52 829.44h122.88v20.48H491.52z" fill="#91D5FF" p-id="11782"></path></svg>OB库
 type command
 action Shell commands: Execute: open vault
 class circle_btn blank
 ```
+
 ^button-openvault
+
 ```button
 name <?xml version="1.0" ?><svg data-name="Layer 1" id="Layer_1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="30" height="30"><defs><style>.cls-1{fill:#4caf50;}.cls-2{fill:#b9f6ca;}.cls-3{fill:#e8f5e9;}</style></defs><title/><path class="cls-1" d="M16.5,22h-9a3,3,0,0,1-3-3V5a3,3,0,0,1,3-3h6.59a1,1,0,0,1,.7.29l4.42,4.42a1,1,0,0,1,.29.7V19A3,3,0,0,1,16.5,22Z"/><path class="cls-2" d="M18.8,7.74H15.2a1.5,1.5,0,0,1-1.5-1.5V2.64a.55.55,0,0,1,.94-.39L19.19,6.8A.55.55,0,0,1,18.8,7.74Z"/><path class="cls-3" d="M9.19,18.11a1.77,1.77,0,0,1-.82-.17,1.29,1.29,0,0,1-.55-.51,1.54,1.54,0,0,1-.2-.79,1.52,1.52,0,0,1,.2-.79,1.21,1.21,0,0,1,.55-.5,1.77,1.77,0,0,1,.82-.18,1.45,1.45,0,0,1,.35,0,1.47,1.47,0,0,1,.38.11.38.38,0,0,1,.19.16.43.43,0,0,1,.05.23.48.48,0,0,1-.07.21.27.27,0,0,1-.17.13.27.27,0,0,1-.23,0,.92.92,0,0,0-.39-.09.61.61,0,0,0-.47.18.77.77,0,0,0-.16.52.75.75,0,0,0,.16.52.58.58,0,0,0,.47.19l.19,0,.2-.07a.27.27,0,0,1,.23,0,.26.26,0,0,1,.16.13.38.38,0,0,1,.07.21.37.37,0,0,1-.05.23.38.38,0,0,1-.19.16,2.15,2.15,0,0,1-.37.11Z"/><path class="cls-3" d="M11.79,18.11a2.92,2.92,0,0,1-.51,0,1.62,1.62,0,0,1-.47-.13.38.38,0,0,1-.24-.2.39.39,0,0,1,0-.26.35.35,0,0,1,.16-.2.3.3,0,0,1,.28,0,1.93,1.93,0,0,0,.42.12,1.69,1.69,0,0,0,.38,0,.56.56,0,0,0,.3-.06.18.18,0,0,0,.09-.16.15.15,0,0,0-.06-.13A.38.38,0,0,0,12,17l-.63-.11a.91.91,0,0,1-.55-.25.74.74,0,0,1-.2-.53.85.85,0,0,1,.17-.51,1.07,1.07,0,0,1,.46-.33,1.83,1.83,0,0,1,.68-.12,3.17,3.17,0,0,1,.47,0,2,2,0,0,1,.41.13.33.33,0,0,1,.2.2.39.39,0,0,1,0,.26.35.35,0,0,1-.17.19.3.3,0,0,1-.28,0,2.19,2.19,0,0,0-.34-.11,1.36,1.36,0,0,0-.27,0,.62.62,0,0,0-.33.07.18.18,0,0,0-.1.16c0,.1.07.16.21.19l.64.11a1,1,0,0,1,.56.24.7.7,0,0,1,.2.52.83.83,0,0,1-.36.72A1.56,1.56,0,0,1,11.79,18.11Z"/><path class="cls-3" d="M14.84,18.1a.59.59,0,0,1-.57-.4l-.82-1.87a.51.51,0,0,1,0-.45.46.46,0,0,1,.44-.2.44.44,0,0,1,.29.09.63.63,0,0,1,.21.32l.48,1.24.51-1.25a.72.72,0,0,1,.2-.31.53.53,0,0,1,.32-.09.4.4,0,0,1,.27.09.36.36,0,0,1,.13.24.53.53,0,0,1-.05.32l-.84,1.88A.58.58,0,0,1,14.84,18.1Z"/></svg>导出csv
 type command
 action Table to CSV Exporter: Export table to CSV file
 class  tiny
 ```
+
 ^button-table2csv
 
 ```button
@@ -199,6 +224,7 @@ type command
 action QuickAdd: 添加主页便签
 class circle_btn blank
 ```
+
 ^button-homenote
 
 ```button
@@ -207,17 +233,19 @@ type command
 action QuickAdd: 主题设置
 class circle_btn blank
 ```
+
 ^button-style
 
 ## 主页相关
+
 ```button
 name <svg t="1641363354628" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2857" width="30" height="30"><path d="M809.3 699.7c-4.4 0-8.9-0.9-13.2-2.7-17.2-7.3-25.3-27.1-18-44.4 14.5-34.3 19.6-62.7 19.6-108.4 0-143.6-97.5-266.4-237.2-298.9-18.2-4.2-29.5-22.4-25.3-40.6 4.2-18.2 22.4-29.5 40.6-25.3 81 18.8 154.5 65.1 207 130.2 26.2 32.5 46.6 68.9 60.6 108.1 14.5 40.5 21.9 83.1 21.9 126.5 0 45.4-4.2 85.7-25 134.7-5.3 13-17.9 20.8-31 20.8zM160.8 662.5c-15.1 0-28.9-10.2-32.8-25.5-7.7-30.1-11.6-61.3-11.6-92.7 0-100.5 34.9-192.4 98.4-258.8 31.8-33.3 69.5-59.2 112.3-77.1 43.9-18.4 91.8-27.7 142.3-27.7 18.7 0 33.8 15.2 33.8 33.8s-15.2 33.8-33.8 33.8c-165.3 0-285.3 124.5-285.3 296 0 25.8 3.2 51.4 9.5 76 4.6 18.1-6.3 36.5-24.4 41.2-2.9 0.7-5.7 1-8.4 1zM490.9 918.8c-69.6 0-137.5-19.2-196.5-55.6-57.3-35.3-104.1-85.5-135.3-145-8.7-16.6-2.3-37 14.2-45.7 16.6-8.7 37-2.3 45.7 14.2 53.2 101.4 157.4 164.4 271.8 164.4 98.8 0 180-36.2 234.7-104.7 11.7-14.6 33-17 47.6-5.3 14.6 11.7 17 33 5.3 47.6-67.9 85.1-167.3 130.1-287.5 130.1z" p-id="2858" fill="#1296db"></path><path d="M396.4 345.9c-7.7 0-15.4-2.6-21.7-7.9-14.3-12-16.2-33.4-4.2-47.7l61.7-73.5-83.1-55.3c-15.6-10.4-19.8-31.4-9.4-46.9s31.4-19.8 46.9-9.4l114.6 76.3c8 5.3 13.4 13.8 14.8 23.4 1.4 9.5-1.4 19.2-7.6 26.6l-86 102.5c-6.7 7.8-16.3 11.9-26 11.9zM794.9 727.2c-3.2 0-6.4-0.5-9.5-1.4-10.4-3.1-18.7-10.9-22.3-21.1l-52.6-147c-6.3-17.6 2.9-37 20.5-43.3 17.6-6.3 37 2.9 43.3 20.5l37 103.3 83-63.8c14.8-11.4 36.1-8.6 47.5 6.2 11.4 14.8 8.6 36.1-6.2 47.5l-119.8 92.1c-6.3 4.6-13.5 7-20.9 7zM191.2 888.7c-18.4 0-33.4-14.7-33.8-33.1l-3.1-151.1c-0.2-10.8 4.7-21.1 13.3-27.6 8.6-6.6 19.8-8.6 30.2-5.5l149.6 44.8c17.9 5.4 28.1 24.2 22.7 42.1-5.4 17.9-24.2 28.1-42.1 22.7l-105.1-31.5 2.2 104.6c0.4 18.7-14.5 34.2-33.1 34.5-0.4 0.1-0.6 0.1-0.8 0.1z" p-id="2859" fill="#1296db"></path></svg>重载主页
 type command
 action QuickAdd: 重载主页
 class circle_btn blank
 ```
-^button-refreshhomepage
 
+^button-refreshhomepage
 
 ```button
 name <img title="重新加载数据" width="90" src="https://s1.ax1x.com/2022/05/18/OI7Io9.png"> 
@@ -225,6 +253,7 @@ type command
 action QuickAdd: 重载主页
 class  blank
 ```
+
 ^button-refreshhomepage1
 
 ```button
@@ -233,6 +262,7 @@ type command
 action QuickAdd: 刷新主页
 class blank
 ```
+
 ^button-loadhome
 
 ```button
@@ -241,6 +271,7 @@ type command
 action QuickAdd: 生成便签
 class circle_btn blank
 ```
+
 ^button-notice
 
 ```button
@@ -249,6 +280,7 @@ type command
 action QuickAdd: 添加豆瓣图书资源-douban
 class circle_btn blank
 ```
+
 ^button-doubanbook
 
 ```button
@@ -257,8 +289,8 @@ type command
 action QuickAdd: 添加豆瓣电影-douban
 class circle_btn blank
 ```
-^button-doubanmovie
 
+^button-doubanmovie
 
 ```button
 name <svg t="1644570909876" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="9799" width="30" height="30"><path d="M512 1024C229.230592 1024 0 794.769408 0 512S229.230592 0 512 0s512 229.230592 512 512-229.230592 512-512 512zM216.064 366.592h-76.8v287.744h76.8V366.592z m164.864 0l-18.432 134.144-10.24-72.704c-3.627008-23.595008-6.678528-43.988992-9.216-61.44h-100.352v287.744h67.584V463.872l28.672 190.464h48.128l26.624-194.56v194.56h67.584V366.592h-100.352z m128 287.744h93.184c18.542592-0.002048 32.528384-1.007616 41.984-3.072 8.99072-1.66912 16.653312-5.117952 22.528-10.24 6.47168-4.642816 10.861568-11.53536 13.312-20.48 2.458624-8.577024 4.096-25.811968 4.096-51.2v-101.376c0-27.19744-1.041408-45.508608-3.072-54.272-1.539072-9.762816-5.705728-18.23744-12.288-25.6-7.179264-7.716864-17.29536-13.0304-30.72-16.384-12.685312-3.253248-34.330624-5.12-71.68-5.12h-57.344v287.744z m76.8-238.592c8.394752 0.003072 14.217216 0.790528 17.408 3.072 2.93376 1.083392 4.89984 3.734528 6.144 7.168 0.722944 4.01408 1.024 12.464128 1.024 25.6v111.616c0 18.47296-1.437696 30.14656-4.096 34.816-2.331648 3.995648-9.28768 6.144-20.48 6.144V415.744z m199.68-49.152h-74.752v286.72h69.632l5.12-17.408c5.933056 6.956032 12.874752 12.474368 20.48 16.384 7.472128 3.25632 18.817024 5.12 27.648 5.12 12.292096 0 22.815744-2.93888 31.744-9.216 8.612864-6.119424 14.434304-13.502464 17.408-21.504 1.65376-8.910848 3.072-21.59616 3.072-38.912v-80.896c0-16.80896-0.598016-28.132352-1.024-33.792-1.215488-4.946944-3.3792-10.53696-7.168-16.384-4.1984-5.262336-9.945088-9.489408-17.408-12.288-7.46496-3.291136-16.272384-4.868096-26.624-5.12-8.98048 0.251904-20.250624 2.115584-27.648 5.12-7.754752 3.588096-14.621696 8.891392-20.48 15.36v-93.184z m25.6 143.36v73.728c0 13.878272-0.83456 22.526976-2.048 26.624-1.59232 3.262464-8.040448 5.12-13.312 5.12-3.98336 0-7.396352-1.857536-9.216-5.12-1.214464-3.597312-2.048-11.74528-2.048-24.576v-75.776c0-12.591104 0.83456-20.810752 2.048-23.552 1.591296-3.54816 4.703232-5.12 9.216-5.12 4.66432 0 11.111424 1.57184 12.288 5.12 2.16064 4.026368 2.997248 11.96032 3.072 23.552z" p-id="9800" fill="#1296db"></path></svg>IMDB
@@ -266,20 +298,21 @@ type command
 action QuickAdd: 添加电影-IMDB
 class circle_btn blank
 ```
+
 ^button-imdb
 
-
-
 ## 工作区切换
+
 #
+
 ```button
 name <svg t="1642771868028" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="17704" width="30" height="30"><path d="M911.28 938H112.72a95.33 95.33 0 0 1-95.22-95.22V157.72a95.33 95.33 0 0 1 95.22-95.22h798.56a95.33 95.33 0 0 1 95.22 95.22v685.06A95.33 95.33 0 0 1 911.28 938zM112.72 122.5a35.26 35.26 0 0 0-35.22 35.22v685.06A35.26 35.26 0 0 0 112.72 878h798.56a35.26 35.26 0 0 0 35.22-35.22V157.72a35.26 35.26 0 0 0-35.22-35.22z" p-id="17705" fill="#1296db"></path><path d="M883 786H141a30 30 0 0 1 0-60h742a30 30 0 0 1 0 60zM141 614a30 30 0 0 1-21.21-51.21l133-133a30 30 0 1 1 42.42 42.42l-133 133A29.88 29.88 0 0 1 141 614z" p-id="17706" fill="#1296db"></path><path d="M384 592a29.91 29.91 0 0 1-21.31-8.88l-110-111a30 30 0 1 1 42.62-42.24l110 111A30 30 0 0 1 384 592z" p-id="17707" fill="#1296db"></path><path d="M384 592a30 30 0 0 1-3.51-59.79l193-23a30 30 0 0 1 7.1 59.58l-193 23a31.13 31.13 0 0 1-3.59 0.21z" p-id="17708" fill="#1296db"></path><path d="M577 569a30 30 0 0 1-22.13-50.24l255-279a30 30 0 1 1 44.28 40.48l-255 279A29.92 29.92 0 0 1 577 569z" p-id="17709" fill="#1296db"></path></svg>打开看板
 type command
 action Workspaces Plus: Load: kanban
 class circle_btn blank
 ```
-^button-kanbanwp
 
+^button-kanbanwp
 
 ```button
 name <svg t="1642771976390" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="22304" width="30" height="30"><path d="M736 192a48 48 0 0 0 48-48V48a48 48 0 1 0-96 0v96a48 48 0 0 0 48 48z m-240 0a48 48 0 0 0 48-48V48a48 48 0 1 0-96 0v96a48 48 0 0 0 48 48z m464 640h-48v-48a48 48 0 1 0-96 0v48h-48a48 48 0 1 0 0 96h48v48a48 48 0 1 0 96 0v-48h48a48 48 0 1 0 0-96z m-288 48a96 96 0 0 1 96-96 96 96 0 1 1 192 0V144a48 48 0 0 0-48-48h-80v48a96 96 0 1 1-192 0V96h-48v48a96 96 0 1 1-192 0V96h-48v48a96 96 0 1 1-192 0V96H80a48 48 0 0 0-48 48v832a48 48 0 0 0 48 48h688v-48a96 96 0 0 1-96-96zM208 368h576a48 48 0 1 1 0 96H208a48 48 0 1 1 0-96z m296 496H200a40 40 0 1 1 0-80h304a40 40 0 1 1 0 80z m120-192H208a48 48 0 1 1 0-96h416a48 48 0 1 1 0 96zM256 192a48 48 0 0 0 48-48V48a48 48 0 1 0-96 0v96a48 48 0 0 0 48 48z" p-id="22305" fill="#1296db"></path></svg>记事
@@ -287,6 +320,7 @@ type command
 action QuickAdd: 打开今天日记
 class circle_btn blank
 ```
+
 ^button-dairywp
 
 ```button
@@ -295,6 +329,7 @@ type command
 action QuickAdd: 库中库
 class grad_button g_purple
 ```
+
 ^button-vault
 
 ```button
@@ -303,6 +338,7 @@ type command
 action QuickAdd: 悬浮大纲
 class grad_button g_blue
 ```
+
 ^button-dagang
 
 ```button
@@ -311,6 +347,7 @@ type command
 action Omnisearch: Vault search
 class grad_button g_blue
 ```
+
 ^button-search
 
 ## 导航
@@ -321,6 +358,7 @@ type command
 action QuickAdd: 打开主页
 class blank main-bar
 ```
+
 ^button-homewp
 
 ```button
@@ -329,6 +367,7 @@ type command
 action 返回
 class blank main-bar
 ```
+
 ^button-browsevault
 
 ```button
@@ -337,6 +376,7 @@ type command
 action 前进
 class blank main-bar
 ```
+
 ^button-browsenext
 
 ```button
@@ -345,51 +385,16 @@ type command
 action QuickAdd: 刷新面板
 class blank main-bar
 ```
+
 ^button-browserefresh
 
 ## 快捷操作
+
 ```button
 name 🔍更新索引
 type command
 action Text expand: expand
 class  grad_button g_yellow tiny
 ```
+
 ^button-expand
-
-
-## GIt 操作
-
-```button
-name Commit
-type command
-action Obsidian Git: Commit all changes
-class  grad_button g_yellow tiny
-color default
-```
-^button-comm
-
-
-```button
-name Push
-type command
-action Obsidian Git: Push
-```
-^button-push
-
-
-```button
-name Pull
-type command
-action Obsidian Git: Pull
-```
-^button-pull
-
-
-```button
-name GC
-type command
-action Shell commands: Execute: GC
-```
-^button-gc
-
-
