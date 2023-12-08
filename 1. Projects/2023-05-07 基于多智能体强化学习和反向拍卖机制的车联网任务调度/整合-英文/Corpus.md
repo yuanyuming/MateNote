@@ -124,3 +124,4 @@ This paper aims to propose a vehicular network task scheduling method based on m
 
 ---
 
+Jeunen等人[^13]讨论了在线广告拍卖的挑战，提出了一个框架，涵盖了不同的“学习出价”方法，包括基于价值、基于策略和双重稳健的公式。他们还介绍了AuctionGym，一个用于在线广告拍卖中出价策略的可靠离线验证的开源仿真环境，实证证据支持了所提方法的有效性。Kutschinski等人[^14]则利用不同类型的异步多智能体强化学习方法确定市场情境下的竞争定价策略。
