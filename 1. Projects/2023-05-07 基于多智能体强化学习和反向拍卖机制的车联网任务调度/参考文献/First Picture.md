@@ -96,11 +96,15 @@ To overcome the disadvantages above, this article proposes temporal attentional 
 - The use of deep reinforcement learning (DRL) to tackle JCORA problems has gained increasing research interest, leveraging the power of deep neural networks (DNNs) [3], [12]–[20].
 - Deep Deterministic Policy Gradient (DDPG) [16], [18] has shown excellent potential in dealing with dynamic optimization problems with a continuous action space.
 - More details on these approaches can be found in Section II.
+
+
 - In traditional Deep Deterministic Policy Gradient (DDPG), both the actor and critic networks rely on fully connected networks (FCNs).
 - FCNs have two significant drawbacks: a large number of trainable parameters, making training difficult and consuming computing resources, and the limitation of extracting only global discriminative state and action policy features.
 - FCNs neglect the temporal variation of task sequences, potentially overlooking useful shapelets for function approximation.
 - Additionally, in traditional DDPG, experience transitions are uniformly sampled from the replay buffer, treating all experiences equally regardless of their significance.
 - This uniform sampling approach ignores the importance of valuable experiences, often resulting in poor stability and slow convergence during training.
+
+
 - To address the drawbacks mentioned earlier, this article introduces Temporal Attentional Deterministic Policy Gradient (TADPG), an enhanced agent derived from DDPG.
 - TADPG is designed to handle the decentralized Joint Computation Offloading and Resource Allocation (JCORA) problem within a dynamic Mobile Edge Computing (MEC) environment.
 - The TADPG agent is deployed on each Mobile Device (MD), resulting in lower control costs between the MD and its corresponding MEC server.
