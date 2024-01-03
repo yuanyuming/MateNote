@@ -1,10 +1,10 @@
 ---
 UID: 20231207160235 
-aliases: 
 tags: 
 source: 
 cssclass: 
-created: 2023-12-07
+created: "2023-12-07 16:02"
+updated: "2024-01-03 13:11"
 ---
 
 Original:
@@ -14,3 +14,7 @@ Modified:
 "In edge cloud computing environments, prevalent scheduling methods encompass fuzzy logic and machine learning. A variety of distributed resource scheduling approaches rooted in random optimization have been introduced [^24][^26][^27][^1], dynamically adapting resource allocation strategies in response to real-time feedback, exhibiting commendable performance in specific scenarios. Nonetheless, these approaches encounter challenges, including the necessity to predefine fuzzy rules, substantial design time requirements, and constraints imposed by a static global perspective.
 
 In contrast to fuzzy logic methods, traditional machine learning techniques leverage existing scheduling data to acquire dynamic task scheduling strategies, thereby diminishing manual intervention. However, the datasets employed for learning may lack adaptability to novel environments. Consequently, reinforcement learning agents trained in simulation environments emerge as a viable solution to tackle the challenges posed by environmental changes [^32]."
+
+
+
+illustration, (((cardcaptor sakura))),(((nsfw))), naked, pussy, pussy_juice, object_insertion, cum, lying on bed ,many underwears, panties, sex toys and condoms on bed , extremely detailed girl, wand, whole body, beautiful detailed eyes, blush,used_condom

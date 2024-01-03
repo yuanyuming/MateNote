@@ -4,7 +4,7 @@ tags:
 source: 
 cssclass: 
 created: "2023-12-19 10:48"
-updated: "2023-12-31 13:31"
+updated: "2024-01-03 13:00"
 ---
 
 ## ✍内容
@@ -96,15 +96,11 @@ To overcome the disadvantages above, this article proposes temporal attentional 
 - The use of deep reinforcement learning (DRL) to tackle JCORA problems has gained increasing research interest, leveraging the power of deep neural networks (DNNs) [3], [12]–[20].
 - Deep Deterministic Policy Gradient (DDPG) [16], [18] has shown excellent potential in dealing with dynamic optimization problems with a continuous action space.
 - More details on these approaches can be found in Section II.
-
-
 - In traditional Deep Deterministic Policy Gradient (DDPG), both the actor and critic networks rely on fully connected networks (FCNs).
 - FCNs have two significant drawbacks: a large number of trainable parameters, making training difficult and consuming computing resources, and the limitation of extracting only global discriminative state and action policy features.
 - FCNs neglect the temporal variation of task sequences, potentially overlooking useful shapelets for function approximation.
 - Additionally, in traditional DDPG, experience transitions are uniformly sampled from the replay buffer, treating all experiences equally regardless of their significance.
 - This uniform sampling approach ignores the importance of valuable experiences, often resulting in poor stability and slow convergence during training.
-
-
 - To address the drawbacks mentioned earlier, this article introduces Temporal Attentional Deterministic Policy Gradient (TADPG), an enhanced agent derived from DDPG.
 - TADPG is designed to handle the decentralized Joint Computation Offloading and Resource Allocation (JCORA) problem within a dynamic Mobile Edge Computing (MEC) environment.
 - The TADPG agent is deployed on each Mobile Device (MD), resulting in lower control costs between the MD and its corresponding MEC server.
@@ -122,6 +118,22 @@ Fig. 1. Multibuyer–multiseller cloud-enabled vehicular network framework.
 However, mobile edge servers may still experience signal coverage limitations and resource constraints in cases of high user density, especially during high-traffic periods. Therefore, mobile device cloud (MDC) [7], [8] technology has been applied as a strategy for offloading computation-intensive applications to nearby mobile devices with idle resources. Compared with location-fixed mobile edge clouds, the offloading scheme in an MDC environment possesses advantages of infrastructure independency and economic efficiency.
 
 In this paper, we investigate a Vickrey–Clarke–Groves (VCG)-based reverse auction mechanism for V2V computation offloading that addresses the aforementioned issues while considering specific features such as opportunistic connections and different V2V channel conditions in cloud-enabled vehicular networks. Specifically, we envision an offloading market containing several auction groups1 with multiple buyers (service requestors) and sellers (service providers). Groups are managed by centralized brokers (RSUs) with innovative policies that can preserve truthfulness and individual rationality. This paper makes the following contributions.
+
+- **Introduction:**
+  - Mobile edge servers face signal coverage limitations and resource constraints, especially during high user density and traffic periods.
+  - Mobile device cloud (MDC) technology is applied for offloading computation-intensive applications to nearby mobile devices with idle resources.
+  - Advantages of MDC include infrastructure independency and economic efficiency.
+- **Research Objective:**
+  - Investigating a Vickrey–Clarke–Groves (VCG)-based reverse auction mechanism for V2V computation offloading in cloud-enabled vehicular networks.
+  - Addressing issues such as signal coverage limitations, resource constraints, and specific features like opportunistic connections and different V2V channel conditions.
+- **Auction Mechanism:**
+  - Envisioning an offloading market with multiple auction groups, each containing buyers (service requestors) and sellers (service providers).
+  - Groups are managed by centralized brokers (RSUs) with innovative policies ensuring truthfulness and individual rationality.
+- **Contributions of the Paper:**
+  - Investigates VCG-based reverse auction mechanism for V2V computation offloading.
+  - Addresses issues in cloud-enabled vehicular networks, including opportunistic connections and varied V2V channel conditions.
+  - Envisions an offloading market with centralized brokers managing auction groups for economic efficiency.
+
 
 ![[Pasted image 20231219141124.png]]
 TABLE II OPTIMAL VCG-BASED REVERSE AUCTION
