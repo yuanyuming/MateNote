@@ -18,3 +18,5 @@ In contrast to fuzzy logic methods, traditional machine learning techniques leve
 
 
 illustration, (((cardcaptor sakura))),(((nsfw))), naked, pussy, pussy_juice, object_insertion, cum, lying on bed ,many underwears, panties, sex toys and condoms on bed , extremely detailed girl, wand, whole body, beautiful detailed eyes, blush,used_condom
+
+1girl,solo,illustration,cardcaptor sakura,bed,spread legs,pussy,pussy juice,lace-trimmed_legwear,skirt lift,
