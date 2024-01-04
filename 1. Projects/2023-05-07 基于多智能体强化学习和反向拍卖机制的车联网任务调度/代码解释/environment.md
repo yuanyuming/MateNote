@@ -1,3 +1,10 @@
+---
+tags: 
+cssclass:
+source:
+created: "2023-08-28 09:24"
+updated: "2023-12-29 14:25"
+---
 ## 用途
 完成强化学习环境的搭建. 使用 Pettingzoo 作为环境接口. ACE 轮流执行的机制. 拥有 continuous 和 discrete 两种 action space. 多种终止条件.
 
