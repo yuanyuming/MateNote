@@ -6,6 +6,9 @@ cssclass:
 created: "2023-12-07 16:02"
 updated: "2024-01-04 02:45"
 ---
+, solo, cardcaptor sakura,full body,nsfw,small breasts,  barefoot,  pussy, bow panties,<lora:panties_around_one_leg_v0.3:1.4>, bed, cum pool, looking at viewer, open shirt, panties around one ankle, 
+
+
 
 Original:
 "Common scheduling methods in edge cloud computing environments include fuzzy logic and machine learning. Various distributed resource scheduling methods based on random optimization have emerged [^24][^26][^27][^1], dynamically adjusting resource allocation strategies based on real-time feedback information, demonstrating good performance in specific scenarios. However, these methods face challenges, such as the need to predefine fuzzy rules, requiring significant time for design, and being limited by a static global perspective. In contrast to fuzzy logic methods, traditional machine learning methods utilize existing scheduling data to learn dynamic task scheduling strategies, reducing manual intervention. Nevertheless, the dataset used for learning may not adapt to new environments. Therefore, reinforcement learning agents trained in simulation environments have become a suitable solution to address the challenges of environmental changes [^32]."
