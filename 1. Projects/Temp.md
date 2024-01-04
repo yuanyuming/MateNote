@@ -41,3 +41,21 @@ pussy sandwich   158 2girls   158 from behind   158 ass   158 mu
 pussy_parfait   11 nipples   10 breasts   10 open mouth   10 large breasts   9 long hair   9 lying   7 smile   7 brown hair   6 blush   6 looking at viewer   6 bangs   6 breasts apart   6 armpits   5 on back   5 navel   5 :d   4 blue eyes   3 eyebrows visible through hair   3 collarbone   3 arms up   3 green eyes   2 small breasts   2 barefoot   2
 
 1girl   14 solo   14 blush   14 condom   14 used condom   14 breasts   13 after sex   13 cum   13 lying   12 nipples   12 open mouth   11 bangs   11 navel   11 large breasts   11 on back   11 long hair   10 cum in pussy   10 looking at viewer   9 pussy   9 on bed   9 censored   8 pillow   8 spread legs   8 cum on body   8
+
+1girls, solo,illustration,cardcaptor sakura, kinomoto sakura, nsfw, nipples, small breasts,ass, pussy,anus, ,  ,pussy_parfait, bed, <lora:pussy_parfait:1>
+
+ BadDream badhandv4 BadNegAnatomyV1-neg easynegative UnrealisticDream
+ 
+panties aside   507 1girl   485 blush   465 breasts   453 pussy   447 hetero   433 censored   432 1boy   419 penis   413 sex   411 vaginal   406 long hair   390 solo focus   379 bangs   366 nipples   340 large breasts   311 open mouth   311 navel   310 sweat   309 looking at viewer   302 spread legs   297 mosaic censoring   280 underwear   272 panties   270
+
+1boy   42 penis   42 testicles   42 1girl   42 ass   42 hetero   42 sex   42 vaginal   42 straddling   42 girl on top   42 feet   42 barefoot   42 soles   42 pussy   42 anus   42 cowgirl position   42 breasts   29 nude   29 toes   27 long hair   26 blush   24 completely nude   23 solo focus   20 looking back   19
+
+1girl   98 breasts   88 solo   88 looking at viewer   83 blush   75 long hair   73 bangs   71 large breasts   59 navel   54 simple background   42 nude   39 smile   38 nipples   36 collarbone   36 completely nude   34 stomach   30 black hair   30 white background   30 pussy   29 open mouth   27 ass   27 closed mouth   26 very long hair   26 hair between eyes
+
+dilation tape   474 pussy   469 1girl   418 spread pussy   407 uncensored   391 anus   364 blush   361 nipples   358 solo   357 breasts   353 spread legs   339 clitoris   325 tape   316 long hair   274 urethra   236 nude   215 open mouth   193 ass   165 large breasts   161 looking at viewer   160 navel   159 thighhighs   157 pussy juice   145 short hair   135
+
+dskbspu   20 1girl   20 pussy   20 anus   20 solo   15 spread legs   14 clitoris   13 close-up   11 nude   11 spread pussy   9 pubic hair   7 breasts   7 ass   7 head out of frame   6 female pubic hair   5 nipples   5 completely nude   5 fishnets   5 pussy juice   4 barefoot   4 on back   4 mole   4 brown hair   4 feet   3
+
+sidedoggystyle   100 1girl   100 blush   92 breasts   83 open mouth   74 nude   73 sweat   73 long hair   62 nipples   60 ass   53 large breasts   53 bent over   45 completely nude   39 from side   39 all fours   38 bangs   36 short hair   28 vaginal   28 blue eyes   28 blonde hair   27 clothed sex   27 hanging breasts   26 clothed female nude male   24 standing sex   24
+
+spread_pussy   271 pussy   146 uncensored   135 1girl   132 breasts   122 solo   121 nipples   110 anus   102 spread_legs   101 long_hair   100 urethra   92 blush   84 clitoris   78 nude   66 navel   57 large_breasts   54 open_mouth   52 lying   49 looking_at_viewer   46 on_back   43 pussy_juice   41 sweat   41 thighhighs   40 bangs   33
