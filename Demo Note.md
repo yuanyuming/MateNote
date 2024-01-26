@@ -1,10 +1,10 @@
 ---
 aliases: Demo Note
 tags: 
-cssclass:
-source:
-created: "2022-10-25 10:35"
-updated: "2022-12-07 21:02"
+cssclass: 
+source: 
+created: 2022-10-25 10:35
+updated: 2022-12-07 21:02
 ---
 
 # Demo Note
