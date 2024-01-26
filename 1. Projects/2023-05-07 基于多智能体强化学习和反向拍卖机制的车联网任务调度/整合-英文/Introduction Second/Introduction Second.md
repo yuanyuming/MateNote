@@ -31,7 +31,7 @@ The primary contributions of this paper are outlined as follows:
 
 **Reinforcement learning.** Reinforcement learning (RL) methods find extensive application in addressing multi-constraint process scheduling problems [^9][^10]. These approaches utilize equilibrium concepts from game theory and multi-agent training techniques to effectively tackle challenges in multi-constraint and multi-objective optimization problems. Nascimento et al. [^2] introduced a reinforcement learning (RL)-based scheduling method designed for the execution of cloud-based scientific workflows. Mao et al. [^12] presented DeepRM, a method addressing system resource management issues by transforming time-sensitive resource demand task scheduling into a reinforcement learning problem.
 
-
+---
 ## Markdown List
 
 1. **Introduction:**
@@ -69,6 +69,13 @@ The primary contributions of this paper are outlined as follows:
    - Facilitates cooperation through resource allocation and price negotiation.
    - Goal: Strike a balance between competition and cooperation, enhance system efficiency, ensure fairness, and promote reasonable resource allocation.
 
+The primary contributions of this paper are outlined as follows:
+
+- Implemented the modeling of the task scheduling problem within the IoV context, devising a methodology for edge server resource scheduling based on multi-agent reinforcement learning and a reverse auction mechanism.
+- Applied a reverse auction approach to address the task scheduling problem in IoV, achieving a distributed, adaptive task scheduling solution.
+- Devised a bidding strategy leveraging PPO+LSTM, harnessing the memory capabilities of LSTM to capture temporal characteristics and long-term dependencies in task scheduling. This strategy aims to enhance the performance and effectiveness of the bidding process.
+- Conducted simulation experiments to validate the effectiveness and superiority of the proposed method. Additionally, assessed the advantages and applicability of reinforcement learning and the reverse auction mechanism, comparing the outcomes with other benchmark methods.
+
 
 **Task Scheduling:**
 - Prevalent methods in edge cloud computing: fuzzy logic and machine learning.
@@ -91,5 +98,6 @@ The primary contributions of this paper are outlined as follows:
 - Utilizes equilibrium concepts from game theory and multi-agent training techniques.
 - Addresses challenges in multi-constraint and multi-objective optimization problems.
 - Examples include RL-based scheduling for cloud-based scientific workflows[^2] and DeepRM for system resource management[^12].
+---
 
-## Raw
+
