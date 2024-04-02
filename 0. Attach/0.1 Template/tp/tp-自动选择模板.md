@@ -17,7 +17,7 @@ if (tp.file.title.includes("-")){
 <%-tp.file.include("[[tp-笔记收集箱]]")-%>
 <%-* } else { -%>
 <%-* /* 如果笔记名中没有“-”则会选择下方模板 */ -%>
-<%-tp.file.include("[[tp-通用模板]]")-%>
+<%-tp.file.include("[[tp-通用模板1]]")-%>
 <%-* } -%>
 
 

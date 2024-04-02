@@ -7,7 +7,7 @@
 <%-* } else if (filetype === "人物模板") {  -%>
 <%-tp.file.include("[[tp-人物模板]]")-%>
 <%-* } else if (filetype === "临时默认") {  -%>
-<%-tp.file.include("[[tp-通用模板]]")-%>
+<%-tp.file.include("[[tp-通用模板1]]")-%>
 <%-* } else { -%>
-<%-tp.file.include("[[tp-通用模板]]")-%>
+<%-tp.file.include("[[tp-通用模板1]]")-%>
 <%-* } -%>

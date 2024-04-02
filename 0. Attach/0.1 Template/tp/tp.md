@@ -5,7 +5,7 @@ obsidianUIMode: preview
 ---
 `button-homewp`  `button-browsevault`  `button-browsenext` `button-browserefresh`
 %% Begin Waypoint %%
-- **[[tp]]**
+- **[tp](./tp.md)**
 	- [[tp_foldermoc-Include-subfolders]]
 	- [[tp-笔记分类模板]]
 	- [[tp-笔记收集箱]]
@@ -16,10 +16,11 @@ obsidianUIMode: preview
 	- [[tp-日记模板-日历]]
 	- [[tp-日记模板-心情]]
 	- [[tp-日记模板-心情2]]
-	- [[tp-通用模板]]
+	- [[tp-通用模板1]]
 	- [[tp-自动选择模板]]
 	- [[tp-book-callout]]
 	- [[tp-movie-douban]]
 	- [[tp-movie]]
+	- [[tp]]
 
 %% End Waypoint %%
