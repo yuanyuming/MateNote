@@ -165,3 +165,17 @@ vscode
 
 Create a maven Project
 输入 spring 选择 Create a maven Project
+
+### 检查 Spring 项目结构
+
+典型的 Maven 或 Gradle 项目结构，其中应用程序源代码位于src/main/java 下，测试代码位于 src/test/java 下，非 Java 资源位于 src/main/resources 下 。在该项目结构中，需要注意以下事项：
+- `mvnw` 和 `mvnw.cmd` —— 这些是 Maven 包装器脚本。即使你的计算机上没有安装 Maven，也可以使用这些脚本构建项目。
+- `pom.xml` —— 这是 Maven 构建规范，一会儿我们将对此进行更深入的研究。
+- `TacoCloudApplication.java` —— 这是引导项目的 Spring Boot 主类。稍后，我们将在这节详细介绍。
+- `application.properties` —— 该文件最初为空，但提供了一个可以指定配置属性的地方。我们将在本章中对此文件进行一些修改，但在第 5 章中将详细介绍配置属性。
+- `static` —— 在此文件夹中，可以放置要提供给浏览器的任何静态内容（图像、样式表、JavaScript 等），最初为空。
+- `templates` —— 在此文件夹中，放置用于向浏览器呈现内容的模板文件。最初为空，但很快会添加 Thymeleaf 模板。
+- `TacoCloudApplicationTests.java` —— 这是一个简单的测试类，可确保成功加载 Spring 应用程序上下文。开发应用程序时，将添加更多的测试。
+    
+
+随着 Taco Cloud 应用程序的增长，将使用 Java 代码、图像、样式表、测试以及其他可帮助完成项目的附带材料来填充此准系统的项目结构。但是与此同时，让我们更深入地研究 Spring Initializr 提供的一些选项。
