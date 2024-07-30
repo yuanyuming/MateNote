@@ -1,5 +1,11 @@
 ---
+aliases: 'Pony Diffusion V6 **XL**'
+tags: 
+cssclass:
+source:
 date created: 2024-07-22 20:56
+created: "2024-07-21 15:33"
+updated: "2024-07-29 11:53"
 ---
 
 # Pony Diffusion V6 **XL**
