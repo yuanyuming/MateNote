@@ -3,7 +3,9 @@ date created: 2024-09-11 15:18
 date updated: 2024-09-11 16:59
 ---
 
-Respected experts, scholars and guests, good morning/afternoon/evening! It is a great honor for me to share with you our research results on "Task Scheduling in Vehicular Networks: A Multi-Agent Reinforcement Learning Based Reverse Auction **Mechanism**" at this important academic conference. I am Yuming Yuan from the School of Information Science and Engineering, Yunnan University.
+Respected experts, scholars and guests, good morning! It's a great honor for me to share with you our research results on "Task Scheduling in Vehicular Networks: A Multi-Agent Reinforcement Learning Based Reverse Auction Mechanism" at this important academic conference. I am Yuming Yuan from the School of Information Science and Engineering, Yunnan University.
+
+Respected experts, scholars and guests, good afternoon! It's a great honor for me to share with you our research results on "Task Scheduling in Vehicular Networks: A Multi-Agent Reinforcement Learning Based Reverse Auction Mechanism" at this important academic conference. I am Yuming Yuan from the School of Information Science and Engineering, Yunnan University.
 
 ---
 
@@ -21,7 +23,7 @@ To address this issue, Mobile Edge Computing is proposed, allowing vehicles to o
 •The servers return a quotation to the vehicles based on their status and task characteristics.
 •Upon receiving all quotations, the vehicles make task offload-ing decisions according to their budget.
 
-In vehicle task scheduling, there are many challenges, such as dynamics, network instability, and **heterogeneous** resource constraints. A more comprehensive and flexible task scheduling method is needed.
+In vehicle task scheduling, there are many challenges, such as dynamics, network instability, and heterogeneous resource constraints. A more comprehensive and flexible task scheduling method is needed.
 
 ---
 
@@ -29,7 +31,7 @@ Next, I will introduce the research status of task scheduling in vehicular netwo
 In this field, an important challenge is to effectively perform task offloading and resource allocation when information is incomplete.
 
 In recent years, distributed task scheduling methods based on stochastic optimization have emerged, which can dynamically adjust resource allocation strategies according to real-time feedback.\
-**However**, Most existing research is mostly limited to the allocation of network channels and server CPU time in the communication direction. The main goal is to minimize system power consumption and running time rather than revenue.
+However, Most existing research is mostly limited to the allocation of network channels and server CPU time in the communication direction. The main goal is to minimize system power consumption and running time rather than revenue.
 
 Existing research mainly focuses on the auction of data resources generated during vehicle driving and does not deeply involve the allocation of edge server resources.\
 
@@ -84,10 +86,10 @@ The PPO-LSTM strategy adds an LSTM layer on top of PPO to capture temporal infor
 ---
 
 During performance evaluation, we employ four metrics to assess performance:
-**Load Balance**: Measured by the average standard deviation of the ratio of the server's resource occupation to the total resource amount over time. This reflects the uniformity of server resource utilization.
-**Server Earnings**: Comprising the difference between the vehicle's cost paid and the task budget, along with the total revenue minus the maintenance cost. It indicates the actual revenue situation of edge servers.
-**Vehicle Utility**: Reflected by the completion rate, which is the ratio of completed tasks to total submitted tasks. A high completion rate implies more efficient processing of vehicle tasks, enhancing the vehicle user experience and also reflecting the ability of the task scheduling strategy to ensure task completion.
-**Task Completion Rate**: One of the crucial indicators for measuring the effectiveness of the task scheduling strategy. It is directly related to vehicle utility and the operating efficiency of the entire system.
+Load Balance: Measured by the average standard deviation of the ratio of the server's resource occupation to the total resource amount over time. This reflects the uniformity of server resource utilization.
+Server Earnings: Comprising the difference between the vehicle's cost paid and the task budget, along with the total revenue minus the maintenance cost. It indicates the actual revenue situation of edge servers.
+Vehicle Utility: Reflected by the completion rate, which is the ratio of completed tasks to total submitted tasks. A high completion rate implies more efficient processing of vehicle tasks, enhancing the vehicle user experience and also reflecting the ability of the task scheduling strategy to ensure task completion.
+Task Completion Rate: One of the crucial indicators for measuring the effectiveness of the task scheduling strategy. It is directly related to vehicle utility and the operating efficiency of the entire system.
 
 ---
 
