@@ -7,7 +7,7 @@ Respected experts, scholars and guests, good morning/afternoon/evening! It is a 
 
 ---
 
-Thi s: Introduction, Method of MADRL and Reverse-Auction, Performance Evaluation, Conclusions and Prospects.
+This presentation includes the following parts: Introduction, Method of MADRL and Reverse-Auction, Performance Evaluation, Conclusions and Prospects.
 
 Now, let's start with the introduction.
 
@@ -43,7 +43,7 @@ In contrast, deep reinforcement learning combines the advantages of deep neural 
 
 ---
 
-Our contribution is below. We conduct research on task scheduling in the context of dynamic vehicular networks and model it as a Markov process.\
+We conduct research on task scheduling in the context of dynamic vehicular networks and model it as a Markov process.\
 Next, we construct a resource scheduling method based on multi-agent deep reinforcement learning and reverse auction mechanism to achieve distributed and adaptive task scheduling.\
 In this process, PPO and LSTM are used to learn the bidding strategy of a single server, successfully capturing the temporal features and long-term dependencies in task scheduling.\
 Finally, through simulation experiments and comparison with other benchmark methods, the effectiveness and superiority of the proposed method are verified.
@@ -69,9 +69,9 @@ The simulation environment adopts a sequential turn-based interface from petting
 
 The number of tasks follows a Poisson distribution at each time step, while the resource requirements adopt a bimodal distribution to more accurately simulate the task characteristics in the real world.
 
-We chose Azure's dedicated hosts as representatives of edge servers and provided virtual machine options with different specifications and prices. We selected three different specifications of dedicated host SKUs, corresponding to large, medium, and small edge servers respectively, to meet different task requirements.
+We chose Azure's dedicated hosts as representatives of edge servers and provided virtual machine options with different specifications and prices.
 
-We have adopted two different reinforcement learning agent models, PPO Agent and PPO LSTM Agent. Both of these models are based on the PPO algorithm. The PPO Agent uses a multilayer perceptron (MLP), and the PPO LSTM Agent adds an LSTM layer on the basis of MLP, enhancing the model's ability to process time series data.
+We have adopted two different reinforcement learning agent models, PPO Agent and PPO LSTM Agent. The PPO Agent uses a multilayer perceptron (MLP), and the PPO LSTM Agent adds an LSTM layer on the basis of MLP, enhancing the model's ability to process time series data.
 
 ---
 
@@ -91,7 +91,7 @@ During performance evaluation, we employ four metrics to assess performance:
 
 ---
 
-This section evaluates the convergence performance of PPO and PPO-LSTM in training multiple agents to maximize server revenue. In our experiment, these two agents were trained for up to 448,000 iterations, with a policy evaluation conducted every 40,000 iterations.
+This section evaluates the convergence performance of PPO and PPO-LSTM in training multiple agents to maximize server revenue.
 As shown in the chart, although the PPO-LSTM strategy has a slightly slower convergence speed than the PPO strategy, it obtains a higher reward upon final convergence and has less fluctuation in the later stage of the training process. This indicates that the PPO-LSTM strategy is more stable in long-term training and can better capture temporal information to make more reasonable decisions.
 This is further confirmed by the data in the table. The average reward of PPO-LTSN is higher than that of PPO, and the standard deviation is smaller.
 
