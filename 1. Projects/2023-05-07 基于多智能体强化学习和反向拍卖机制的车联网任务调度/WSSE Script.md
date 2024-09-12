@@ -3,21 +3,25 @@ date created: 2024-09-11 15:18
 date updated: 2024-09-11 16:59
 ---
 
-Respected experts, scholars and guests, good morning/afternoon/evening! It is a great honor for me to share with you our research results on "Task Scheduling in Vehicular Networks: A Multi-Agent Reinforcement Learning Based Reverse Auction Mechanism" at this important academic conference. I am Yuming Yuan from the School of Information Science and Engineering, Yunnan University.
+Respected experts, scholars and guests, good morning/afternoon/evening! It is a great honor for me to share with you our research results on "Task Scheduling in Vehicular Networks: A Multi-Agent Reinforcement Learning Based Reverse Auction **Mechanism**" at this important academic conference. I am Yuming Yuan from the School of Information Science and Engineering, Yunnan University.
 
 ---
 
-This presentation includes the following parts: Introduction, Method, Performance Evaluation, Conclusions and Prospects.
+This presentation includes the following parts: Introduction, Method of MADRL and Reverse-Auction, Performance Evaluation, Conclusions and Prospects.
 
 Now, let's start with the introduction.
 
 ---
 
-In the field of vehicular networks, modern vehicles are undergoing a technological revolution. Internet of Vehicles (IoV) provides real-time traffic flow information to improve road safety, traffic efficiency, and driving experience. However, vehicles' limited computing power and battery capacity make it difficult to meet the demands of complex or delay-sensitive tasks.
+In the field of vehicular networks, vehicles' limited computing power and battery capacity make it difficult to meet the demands of complex or delay-sensitive tasks.
 
-To address this issue, Mobile Edge Computing is proposed, allowing vehicles to offload tasks to MEC servers for execution. An MEC system in a urban setting is shown as follows: Vehicles are equipped with On-Board Units to communicate with edge servers. These edge servers are distributed strategically to meet the demands of vehicles and users. The connectivity between vehicles and edge servers is indicated by the clear blue dotted lines, and the solid blue lines show the established and effective communication.
+To address this issue, Mobile Edge Computing is proposed, allowing vehicles to offload tasks to MEC servers for execution. An MEC system in a urban setting is shown as follows: 
 
-In vehicle task scheduling, there are many challenges, such as dynamics, network instability, and heterogeneous resource constraints. Existing research has limitations, and a more comprehensive and flexible task scheduling method is needed.
+•Vehicles assess their channel connection status to determine the task offloading point and send task requests to the edge servers.
+•The servers return a quotation to the vehicles based on their status and task characteristics.
+•Upon receiving all quotations, the vehicles make task offload-ing decisions according to their budget.
+
+In vehicle task scheduling, there are many challenges, such as dynamics, network instability, and **heterogeneous** resource constraints. A more comprehensive and flexible task scheduling method is needed.
 
 ---
 
@@ -56,14 +60,6 @@ Reinforcement learning aims to enable agents to make optimal decisions through i
 Now let me introduce the reverse auction mechanism. Different from traditional auctions, in a reverse auction, the buyer does not set the price but issues a tender announcement and invites many suppliers to participate in the bidding. This method is especially suitable for purchasing some relatively standardized goods or services, such as raw materials, resources or labor. In this process, the buyer will clearly and in detail stipulate the specifications and requirements of goods or services, and suppliers will submit their quotations according to these specific requirements.
 
 Reverse auction has significant advantages. First, it can reduce costs. The fierce competition among suppliers will prompt more reasonable and advantageous prices. Second, it can improve procurement efficiency. The appropriate supplier and transaction plan can be quickly determined. Third, it strongly promotes competition among suppliers, thereby promoting the healthier development of the market and providing more high-quality choices for the buyer.
-
----
-
-To simulate the vehicular network scenario more realistically, we have constructed a simulation environment containing multiple vehicles and multiple edge servers.
-
-Introduction to the reinforcement learning simulation environment based on Python for verifying the task scheduling method in vehicular networks.\
-
-The simulation environment adopts a sequential turn-based interface from pettingzoo and can be compatible with multi-agent reinforcement learning algorithms.
 
 ---
 
