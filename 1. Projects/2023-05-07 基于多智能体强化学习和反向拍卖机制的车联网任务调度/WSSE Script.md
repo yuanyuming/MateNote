@@ -7,7 +7,7 @@ Respected experts, scholars and guests, good morning/afternoon/evening! It is a 
 
 ---
 
-This presentation includes the following parts: Introduction, Method of MADRL and Reverse-Auction, Performance Evaluation, Conclusions and Prospects.
+Thi s: Introduction, Method of MADRL and Reverse-Auction, Performance Evaluation, Conclusions and Prospects.
 
 Now, let's start with the introduction.
 
@@ -37,13 +37,13 @@ In the existing reinforcement learning models for the task offloading problem in
 
 ---
 
-Traditional task scheduling methods are mostly based on centralized optimization models, such as using mathematical programming, heuristic algorithms, and meta-heuristic algorithms for solution. However, in edge environments, system parameters and state information are often difficult to obtain completely and accurately, resulting in low task scheduling efficiency.\
+The existing methods face challenges. Traditional task scheduling methods are mostly based on centralized optimization models, such as using mathematical programming, heuristic algorithms, and meta-heuristic algorithms for solution. However, in edge environments, system parameters and state information are often difficult to obtain completely and accurately, resulting in low task scheduling efficiency.\
 To solve this problem, methods based on stochastic optimization are often used in distributed task scheduling. Such methods use randomness to handle uncertainties and approximate the optimal solution by iteratively updating feasible solutions. However, there are problems such as slow convergence speed, high computational overhead, and sensitivity to parameters.\
 In contrast, deep reinforcement learning combines the advantages of deep neural networks and reinforcement learning and provides a new way to solve the above problems. It can automatically learn complex policy functions to adapt to dynamically changing environments and goals. But there is a problem of training stability.
 
 ---
 
-We conduct research on task scheduling in the context of dynamic vehicular networks and model it as a Markov process.\
+Our contribution is below. We conduct research on task scheduling in the context of dynamic vehicular networks and model it as a Markov process.\
 Next, we construct a resource scheduling method based on multi-agent deep reinforcement learning and reverse auction mechanism to achieve distributed and adaptive task scheduling.\
 In this process, PPO and LSTM are used to learn the bidding strategy of a single server, successfully capturing the temporal features and long-term dependencies in task scheduling.\
 Finally, through simulation experiments and comparison with other benchmark methods, the effectiveness and superiority of the proposed method are verified.
