@@ -27,34 +27,38 @@ In vehicle task scheduling, there are many challenges, such as dynamics, network
 
 ---
 
-Next, I will introduce the research status of task scheduling in vehicular networks.\
-In this field, an important challenge is to effectively perform task offloading and resource allocation when information is incomplete.
+Next, I will introduce the research status.
+In this field, an important challenge is to effectively perform task scheduling when information is incomplete.
 
-In recent years, distributed task scheduling methods based on stochastic optimization have emerged, which can dynamically adjust resource allocation strategies according to real-time feedback.\
-However, Most existing research is mostly limited to the allocation of network channels and server CPU time in the communication direction. The main goal is to minimize system power consumption and running time rather than revenue.
+In recent years, distributed task scheduling methods based on **stochastic** optimization have emerged, which can dynamically adjust resource allocation strategies according to real-time feedback.
+However, Most existing research is mostly limited to the allocation of network channels or server CPU time. The main goal is to minimize system power consumption or running time rather than revenue.
 
-Existing research mainly focuses on the auction of data resources generated during vehicle driving and does not deeply involve the allocation of edge server resources.\
+Existing research mainly focuses on the auction of data resources generated during vehicle driving and does not deeply involve the allocation of edge server resources.
 
-In the existing reinforcement learning models for the task offloading problem in vehicular networks, they often can observe the global state or deploy the same model, which does not meet the requirements of a real multi-agent system. We are committed to developing models that can work effectively in complex systems and achieve long-term load balancing through optimizing task scheduling.
+The existing reinforcement learning models for the task offloading problem often can observe the global state or deploy the same model, which does not meet the requirements of a real multi-agent system. 
 
 ---
 
-The existing methods face challenges. Traditional task scheduling methods are mostly based on centralized optimization models, such as using mathematical programming, heuristic algorithms, and meta-heuristic algorithms for solution. However, in edge environments, system parameters and state information are often difficult to obtain completely and accurately, resulting in low task scheduling efficiency.\
-To solve this problem, methods based on stochastic optimization are often used in distributed task scheduling. Such methods use randomness to handle uncertainties and approximate the optimal solution by iteratively updating feasible solutions. However, there are problems such as slow convergence speed, high computational overhead, and sensitivity to parameters.\
+The existing methods face challenges. Traditional task scheduling methods are mostly based on centralized optimization models, such as using mathematical programming, heuristic algorithms, and meta-heuristic algorithms for solution. 
+
+However, in edge environments, system parameters and state information are often difficult to obtain completely and accurately, resulting in low task scheduling efficiency.
+
+Methods based on stochastic optimization are often used in distributed task scheduling. Such methods use randomness to handle uncertainties and approximate the optimal solution by iteratively updating feasible solutions. However, there are problems such as slow convergence speed, high computational overhead, and sensitivity to parameters.
+
 In contrast, deep reinforcement learning combines the advantages of deep neural networks and reinforcement learning and provides a new way to solve the above problems. It can automatically learn complex policy functions to adapt to dynamically changing environments and goals. But there is a problem of training stability.
 
 ---
 
-We conduct research on task scheduling in the context of dynamic vehicular networks and model it as a Markov process.\
-Next, we construct a resource scheduling method based on multi-agent deep reinforcement learning and reverse auction mechanism to achieve distributed and adaptive task scheduling.\
-In this process, PPO and LSTM are used to learn the bidding strategy of a single server, successfully capturing the temporal features and long-term dependencies in task scheduling.\
+We conduct research on task scheduling in the context of dynamic vehicular networks and model it as a Markov process.
+Next, we construct a resource scheduling method based on multi-agent deep reinforcement learning and reverse auction mechanism to achieve distributed and adaptive task scheduling.
+In this process, PPO and LSTM are used to learn the bidding strategy of a single server, successfully capturing the temporal features and long-term dependencies in task scheduling.
 Finally, through simulation experiments and comparison with other benchmark methods, the effectiveness and superiority of the proposed method are verified.
 
 Our method shows excellent adaptability and robustness in complex environments, can accurately make task scheduling decisions in uncertainty, and greatly enhances the long-term stability of the system.
 
 ---
 
-Next, let me introduce the multi-agent reinforcement learning (MADRL) in the method part.\
+Next, let me introduce the multi-agent reinforcement learning (MADRL) in the method part.
 Reinforcement learning aims to enable agents to make optimal decisions through interaction with the environment. In our research, deep reinforcement learning is used to train agents to make efficient decisions in the vehicular network environment. The core is that agents observe the environmental state, take actions and obtain rewards. The reward signal helps them learn the best actions to maximize long-term returns. Expanding to multiple agents interacting and learning in a shared environment forms MADRL. Multiple agents have their own strategies and rewards and may interact or depend on each other. However, MADRL faces difficulties such as controlling competition and cooperation among agents, dealing with environmental instability, overcoming information limitations, ensuring goal consistency and scalability.
 
 ---
@@ -99,11 +103,11 @@ This is further confirmed by the data in the table. The average reward of PPO-LT
 
 ---
 
-Now, let's take a look at the comparative analysis through simulation experiments and other benchmark strategies.\
-We examined three different scenarios where the number of task arrivals and conducted ten independent simulation experiments using five random seeds.\
-The experimental results show that the PPO-LTSM strategy performs excellently in multiple indicators. In the scenario where the number of task arrivals is 20, the PPO-LTSM strategy outperforms other strategies, indicating that the PPO-LTSM strategy can maintain good performance under different task load conditions.\
-Although the Fixed strategy performs well in server earnings, it performs poorly in other indicators, which may affect user satisfaction. The Random strategy is almost the worst in all indicators, while the PPO strategy performs better in other indicators although it is slightly inferior to the Fixed strategy in server earnings.\
-As the number of task arrivals grows, the server's earnings and utilization generally rise while the task completion rate declines, likely due to server overload. When there are 10 arriving tasks, each strategy has similar performance in load balance and task completion rate due to the relatively small number of tasks. When the number of arrivals is 20, the PPO-LSTM strategy outperforms others in all indicators, showing better adaptability and flexibility. In the large-scale task scenario with 40 arriving tasks, the PPO-LSTM strategy continues to lead and achieves better load balance, vehicle utility, and task completion rate.\
+Now, let's take a look at the comparative analysis through simulation experiments and other benchmark strategies.
+We examined three different scenarios where the number of task arrivals and conducted ten independent simulation experiments using five random seeds.
+The experimental results show that the PPO-LTSM strategy performs excellently in multiple indicators. In the scenario where the number of task arrivals is 20, the PPO-LTSM strategy outperforms other strategies, indicating that the PPO-LTSM strategy can maintain good performance under different task load conditions.
+Although the Fixed strategy performs well in server earnings, it performs poorly in other indicators, which may affect user satisfaction. The Random strategy is almost the worst in all indicators, while the PPO strategy performs better in other indicators although it is slightly inferior to the Fixed strategy in server earnings.
+As the number of task arrivals grows, the server's earnings and utilization generally rise while the task completion rate declines, likely due to server overload. When there are 10 arriving tasks, each strategy has similar performance in load balance and task completion rate due to the relatively small number of tasks. When the number of arrivals is 20, the PPO-LSTM strategy outperforms others in all indicators, showing better adaptability and flexibility. In the large-scale task scenario with 40 arriving tasks, the PPO-LSTM strategy continues to lead and achieves better load balance, vehicle utility, and task completion rate.
 In conclusion, we can see that the PPO-LTSM strategy shows better adaptability and performance under different numbers of task arrivals.
 
 ---
@@ -112,8 +116,8 @@ This paper presents a method based on multi-agent reinforcement learning and rev
 
 ---
 
-Although our research has made some progress, it is obvious that there is still room for improvement.\
-In the actual vehicular network, vehicle mobility and network topology are more complex and diverse. Future research needs to consider more realistic models and environments to enhance the adaptability and robustness of the method.\
+Although our research has made some progress, it is obvious that there is still room for improvement.
+In the actual vehicular network, vehicle mobility and network topology are more complex and diverse. Future research needs to consider more realistic models and environments to enhance the adaptability and robustness of the method.
 Moreover, multi-agent reinforcement learning training still faces many challenges. Further exploring and optimizing algorithms is crucial for improving system performance and promoting the research and application of vehicular network task scheduling methods.
 
 ---
