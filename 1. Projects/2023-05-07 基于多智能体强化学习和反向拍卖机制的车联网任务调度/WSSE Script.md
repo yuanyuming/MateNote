@@ -45,9 +45,12 @@ The existing methods face challenges. Traditional task scheduling methods are mo
 
 However, in edge environments, system parameters and state information are often difficult to obtain completely and accurately, resulting in low task scheduling efficiency.
 
-Methods based on stochastic optimization are often used in distributed task scheduling. Such methods use randomness to handle uncertainties and approximate the optimal solution by iteratively updating feasible solutions. However, there are problems such as slow convergence speed, high computational overhead, and sensitivity to parameters.
+Methods based on stochastic optimization are often used in distributed task scheduling. 
+Such methods use randomness to handle uncertainties and approximate the optimal solution by iteratively updating feasible solutions. 
+However, there are problems such as slow convergence speed, high computational overhead, and sensitivity to parameters.
 
-In contrast, deep reinforcement learning combines the advantages of deep neural networks and reinforcement learning and provides a new way to solve the above problems. It can automatically learn complex policy functions to adapt to dynamically changing environments and goals. But there is a problem of training stability.
+In contrast, deep reinforcement learning combines the advantages of deep neural networks and reinforcement learning and provides a new way to solve the above problems. 
+It can automatically learn complex policy functions to adapt to dynamically changing environments and goals. But there is a problem of training stability.
 
 ---
 
