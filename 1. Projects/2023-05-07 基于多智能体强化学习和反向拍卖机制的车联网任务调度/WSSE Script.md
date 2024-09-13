@@ -3,7 +3,9 @@ date created: 2024-09-11 15:18
 date updated: 2024-09-11 16:59
 ---
 
-Respected experts, scholars and guests, good morning! It's a great honor for me to share with you our research results on "Task Scheduling in Vehicular Networks: A Multi-Agent Reinforcement Learning Based Reverse Auction Mechanism" at this important academic conference. I am Yuming Yuan from the School of Information Science and Engineering, Yunnan University.
+S5 12.00-12.15 UTC9
+
+Respected experts, scholars and guests, good morning! It's a great honor for me to share with you our research results on "Task Scheduling in Vehicular Networks: A Multi-Agent Reinforcement Learning Based Reverse Auction Mechan nism" at this important academic conference. I am Yuming Yuan from the School of Information Science and Engineering, Yunnan University.
 
 Respected experts, scholars and guests, good afternoon! It's a great honor for me to share with you our research results on "Task Scheduling in Vehicular Networks: A Multi-Agent Reinforcement Learning Based Reverse Auction Mechanism" at this important academic conference. I am Yuming Yuan from the School of Information Science and Engineering, Yunnan University.
 
