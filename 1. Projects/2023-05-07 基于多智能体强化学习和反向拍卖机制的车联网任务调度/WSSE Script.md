@@ -55,6 +55,7 @@ It can automatically learn complex policy functions to adapt to dynamically chan
 ---
 
 We conduct research on task scheduling in the context of dynamic vehicular networks and model it as a Markov process.
+
 Next, we construct a resource scheduling method based on multi-agent deep reinforcement learning and reverse auction mechanism to achieve distributed and adaptive task scheduling.
 In this process, PPO and LSTM are used to learn the bidding strategy of a single server, successfully capturing the temporal features and long-term dependencies in task scheduling.
 Finally, through simulation experiments and comparison with other benchmark methods, the effectiveness and superiority of the proposed method are verified.
