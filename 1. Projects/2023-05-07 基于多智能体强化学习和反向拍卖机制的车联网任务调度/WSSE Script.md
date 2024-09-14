@@ -92,7 +92,8 @@ The number of tasks follows a Poisson distribution at each time step, while the 
 
 We chose Azure's dedicated hosts as representatives of edge servers and provided virtual machine options with different specifications and prices.
 
-We have adopted two different reinforcement learning agent models, PPO Agent and PPO LSTM Agent. The PPO Agent uses a MLP, and the PPO LSTM Agent adds an LSTM layer on the MLP, enhancing the model's ability to process time series data.
+We have adopted two different reinforcement learning agent models, PPO Agent and PPO LSTM Agent. 
+The PPO Agent uses a MLP, and the PPO LSTM Agent adds a LSTM layer on the MLP, enhancing the model's ability to process time series data.
 
 ---
 
@@ -100,7 +101,7 @@ Next, let's introduce the four strategies compared in this paper.
 The fixed strategy determines the quotation based on task characteristics and duration, with market prices as a reference.
 The random strategy randomly samples a coefficient to determine the quotation.
 The PPO strategy uses the PPO algorithm and MLP to dynamically determine the quotation according to resources and task characteristics, being more flexible and accurate.
-The PPO-LSTM strategy adds an LSTM layer on top of PPO to capture temporal information and make more accurate quotations.
+The PPO-LSTM strategy adds a LSTM layer to capture temporal information and make more accurate quotations.
 
 ---
 
