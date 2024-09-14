@@ -56,34 +56,43 @@ It can automatically learn complex policy functions to adapt to dynamically chan
 
 We conduct research on task scheduling in the context of dynamic vehicular networks and model it as a Markov process.
 
-Next, we construct a resource scheduling method based on multi-agent deep reinforcement learning and reverse auction mechanism to achieve distributed and adaptive task scheduling.
+Next, we construct a task scheduling method based on multi-agent deep reinforcement learning and reverse auction mechanism to achieve distributed and adaptive task scheduling.
+
 In this process, PPO and LSTM are used to learn the bidding strategy of a single server, successfully capturing the temporal features and long-term dependencies in task scheduling.
-Finally, through simulation experiments and comparison with other benchmark methods, the effectiveness and superiority of the proposed method are verified.
 
-Our method shows excellent adaptability and robustness in complex environments, can accurately make task scheduling decisions in uncertainty, and greatly enhances the long-term stability of the system.
+Finally, we verify the effectiveness and superiority of the proposed method through simulation experiments and comparison with other benchmark methods
 
----
-
-Next, let me introduce the multi-agent reinforcement learning (MADRL) in the method part.
-Reinforcement learning aims to enable agents to make optimal decisions through interaction with the environment. In our research, deep reinforcement learning is used to train agents to make efficient decisions in the vehicular network environment. The core is that agents observe the environmental state, take actions and obtain rewards. The reward signal helps them learn the best actions to maximize long-term returns. Expanding to multiple agents interacting and learning in a shared environment forms MADRL. Multiple agents have their own strategies and rewards and may interact or depend on each other. However, MADRL faces difficulties such as controlling competition and cooperation among agents, dealing with environmental instability, overcoming information limitations, ensuring goal consistency and scalability.
 
 ---
 
-Now let me introduce the reverse auction mechanism. Different from traditional auctions, in a reverse auction, the buyer does not set the price but issues a tender announcement and invites many suppliers to participate in the bidding. This method is especially suitable for purchasing some relatively standardized goods or services, such as raw materials, resources or labor. In this process, the buyer will clearly and in detail stipulate the specifications and requirements of goods or services, and suppliers will submit their quotations according to these specific requirements.
+Now, let me introduce the method part.
 
-Reverse auction has significant advantages. First, it can reduce costs. The fierce competition among suppliers will prompt more reasonable and advantageous prices. Second, it can improve procurement efficiency. The appropriate supplier and transaction plan can be quickly determined. Third, it strongly promotes competition among suppliers, thereby promoting the healthier development of the market and providing more high-quality choices for the buyer.
+In our research, deep reinforcement learning is used to train agents to make efficient decisions in the vehicular network environment. 
+
+The core is that agents observe the environmental state, take actions and obtain rewards. 
+The reward signal helps them learn the best actions to maximize long-term returns. 
+
+Expanding to multiple agents interacting and learning in a shared environment forms MADRL. Multiple agents have their own strategies and rewards and may interact or depend on each other. 
+
+However, MADRL faces difficulties such as controlling competition and cooperation among agents, dealing with environmental instability, overcoming information limitations, ensuring goal consistency and scalability.
+
+---
+
+Next, let me introduce the reverse auction mechanism. Different from traditional auctions, in a reverse auction, the buyer does not set the price but issues a tender announcement and invites many suppliers to participate in the bidding.
+
+In this process, the buyer will clearly and in detail stipulate the specifications and requirements of goods or services, and suppliers will submit their quotations according to these specific requirements.
+
+Reverse auction has significant advantages. It can reduce costs, improve procurement efficiency and promotes competition among suppliers.
 
 ---
 
 Those table shows the Parameter Setting of Simulation Environment.
 
-The simulation environment adopts a sequential turn-based interface from pettingzoo and can be compatible with multi-agent reinforcement learning algorithms.
-
-The number of tasks follows a Poisson distribution at each time step, while the resource requirements adopt a bimodal distribution to more accurately simulate the task characteristics in the real world.
+The number of tasks follows a Poisson distribution at each time step, while the resource requirements adopt a bimodal distribution to simulate the task characteristics in the real world.
 
 We chose Azure's dedicated hosts as representatives of edge servers and provided virtual machine options with different specifications and prices.
 
-We have adopted two different reinforcement learning agent models, PPO Agent and PPO LSTM Agent. The PPO Agent uses a multilayer perceptron (MLP), and the PPO LSTM Agent adds an LSTM layer on the basis of MLP, enhancing the model's ability to process time series data.
+We have adopted two different reinforcement learning agent models, PPO Agent and PPO LSTM Agent. The PPO Agent uses a MLP, and the PPO LSTM Agent adds an LSTM layer on the MLP, enhancing the model's ability to process time series data.
 
 ---
 
@@ -96,16 +105,16 @@ The PPO-LSTM strategy adds an LSTM layer on top of PPO to capture temporal infor
 ---
 
 During performance evaluation, we employ four metrics to assess performance:
-Load Balance: Measured by the average standard deviation of the ratio of the server's resource occupation to the total resource amount over time. This reflects the uniformity of server resource utilization.
-Server Earnings: Comprising the difference between the vehicle's cost paid and the task budget, along with the total revenue minus the maintenance cost. It indicates the actual revenue situation of edge servers.
-Vehicle Utility: Reflected by the completion rate, which is the ratio of completed tasks to total submitted tasks. A high completion rate implies more efficient processing of vehicle tasks, enhancing the vehicle user experience and also reflecting the ability of the task scheduling strategy to ensure task completion.
-Task Completion Rate: One of the crucial indicators for measuring the effectiveness of the task scheduling strategy. It is directly related to vehicle utility and the operating efficiency of the entire system.
+Load Balance is the Average standard deviation of the ratio of server's resource occupation to total resource amount over time.
+Server Earnings is the Total revenue minus maintenance cost for all time steps.
+Task Completion Rate is the Ratio of completed tasks to total submitted tasks in all time steps.
 
 ---
 
-This section evaluates the convergence performance of PPO and PPO-LSTM in training multiple agents to maximize server revenue.
-As shown in the chart, although the PPO-LSTM strategy has a slightly slower convergence speed than the PPO strategy, it obtains a higher reward upon final convergence and has less fluctuation in the later stage of the training process. This indicates that the PPO-LSTM strategy is more stable in long-term training and can better capture temporal information to make more reasonable decisions.
-This is further confirmed by the data in the table. The average reward of PPO-LTSN is higher than that of PPO, and the standard deviation is smaller.
+This section evaluates the convergence performance of agents.
+
+•The PPO - LSTM Agent converges slightly slower than the PPO Agent, but has a higher final reward, less fluctuation in the later training stage.
+•The PPO + LTSM Agent achieves a higher average reward, has strong stability with significantly reduced fluctuations.
 
 ---
 
@@ -118,13 +127,15 @@ In conclusion, we can see that the PPO-LTSM strategy shows better adaptability a
 
 ---
 
-This paper presents a method based on multi-agent reinforcement learning and reverse auction mechanism for task offloading in vehicular networks. This method enables agents to learn effective bidding strategies and has significant advantages in improving task completion rate and vehicle utility. It can also better adapt to the vehicular network environment. Through comparative experiments, the PPO-LSTM algorithm is selected. This algorithm performs well in the learning process and decision-making quality. The experimental results show that this algorithm has obvious advantages in the vehicular network simulation environment.
+•This proposed method for task offloading in vehicular networks has significant advantages in improving task completion rate and vehicle utility, and can better adapt to the vehicular network environment.
+
+•The PPO - LSTM algorithm performs well in the learning process and decision - making quality.
 
 ---
 
-Although our research has made some progress, it is obvious that there is still room for improvement.
-In the actual vehicular network, vehicle mobility and network topology are more complex and diverse. Future research needs to consider more realistic models and environments to enhance the adaptability and robustness of the method.
-Moreover, multi-agent reinforcement learning training still faces many challenges. Further exploring and optimizing algorithms is crucial for improving system performance and promoting the research and application of vehicular network task scheduling methods.
+•Future research needs to consider more realistic models and environments to enhance the adaptability and robustness of the method.
+
+•Further exploring and optimizing of MADRL is crucial for improving the system performance and promoting the research and application of vehicular network task scheduling methods.
 
 ---
 
