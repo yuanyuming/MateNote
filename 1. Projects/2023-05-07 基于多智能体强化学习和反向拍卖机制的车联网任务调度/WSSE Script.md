@@ -132,7 +132,7 @@ As the task arrivals rate grows, the server's earnings and utilization generally
 
 In the large-scale task scenario with arrival rate  is 40, the PPO-LSTM strategy continues to lead and achieves better performance.
 
-In conclusion, we can see that the PPO-LTSM strategy shows better adaptability and performance under different numbers of task arrivals.
+In conclusion, we can see that the PPO-LTSM strategy shows better adaptability and performance under different task arrival rate.
 
 ---
 
