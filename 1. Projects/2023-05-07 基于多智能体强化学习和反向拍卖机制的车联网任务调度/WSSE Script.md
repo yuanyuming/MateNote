@@ -115,20 +115,28 @@ Task Completion Rate is the Ratio of completed tasks to total submitted tasks in
 This section evaluates the convergence performance of agents.
 
 •The PPO - LSTM Agent converges slightly slower than the PPO Agent, but has a higher final reward, less fluctuation in the later training stage.
-•The PPO + LTSM Agent achieves a higher average reward, has strong stability with significantly reduced fluctuations.
 
 ---
 
-Now, let's take a look at the comparative analysis through simulation experiments and other benchmark strategies.
-We examined three different scenarios where the number of task arrivals and conducted ten independent simulation experiments using five random seeds.
-The experimental results show that the PPO-LTSM strategy performs excellently in multiple indicators. In the scenario where the number of task arrivals is 20, the PPO-LTSM strategy outperforms other strategies, indicating that the PPO-LTSM strategy can maintain good performance under different task load conditions.
-Although the Fixed strategy performs well in server earnings, it performs poorly in other indicators, which may affect user satisfaction. The Random strategy is almost the worst in all indicators, while the PPO strategy performs better in other indicators although it is slightly inferior to the Fixed strategy in server earnings.
-As the number of task arrivals grows, the server's earnings and utilization generally rise while the task completion rate declines, likely due to server overload. When there are 10 arriving tasks, each strategy has similar performance in load balance and task completion rate due to the relatively small number of tasks. When the number of arrivals is 20, the PPO-LSTM strategy outperforms others in all indicators, showing better adaptability and flexibility. In the large-scale task scenario with 40 arriving tasks, the PPO-LSTM strategy continues to lead and achieves better load balance, vehicle utility, and task completion rate.
+Now, let's take a look at the comparative analysis through simulation experiments.
+
+We examined three different scenarios where the number of task arrivals rate and conducted ten independent simulation experiments using five random seeds.
+
+The experimental results show that the PPO-LTSM strategy performs excellently in multiple indicators.
+
+When the number of task arrivals rate is 20, the PPO-LTSM strategy outperforms other strategies, indicating that the PPO-LTSM strategy can maintain good performance.
+
+When the number of task arrivals rate is 10, Although the Fixed strategy performs well in server earnings, it performs poorly in other indicators. The PPO LTSM strategy performs better in other indicators.
+
+As the task arrivals rate grows, the server's earnings and utilization generally rise while the task completion rate declines, likely due to server overload. 
+
+In the large-scale task scenario with arrival rate  is 40, the PPO-LSTM strategy continues to lead and achieves better performance.
+
 In conclusion, we can see that the PPO-LTSM strategy shows better adaptability and performance under different numbers of task arrivals.
 
 ---
 
-•This proposed method for task offloading in vehicular networks has significant advantages in improving task completion rate and vehicle utility, and can better adapt to the vehicular network environment.
+•This proposed method has significant advantages in improving task completion rate and vehicle utility, and can better adapt to the vehicular network environment.
 
 •The PPO - LSTM algorithm performs well in the learning process and decision - making quality.
 
