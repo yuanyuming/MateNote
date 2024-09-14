@@ -33,6 +33,7 @@ Next, I will introduce the research status.
 In this field, an important challenge is to effectively perform task scheduling when information is incomplete.
 
 In recent years, distributed task scheduling methods based on **stochastic** optimization have emerged, which can dynamically adjust resource allocation strategies according to real-time feedback.
+
 However, Most existing research is mostly limited to the allocation of network channels or server CPU time. The main goal is to minimize system power consumption or running time rather than revenue.
 
 Existing research mainly focuses on the auction of data resources generated during vehicle driving and does not deeply involve the allocation of edge server resources.
