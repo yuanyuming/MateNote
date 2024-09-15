@@ -1,6 +1,11 @@
 ---
+tags: 
+cssclass:
+source:
 date created: 2024-09-11 15:18
 date updated: 2024-09-11 16:59
+created: "2024-09-11 15:17"
+updated: "2024-09-15 18:10"
 ---
 
 S5 12.00-12.15 UTC9
@@ -21,9 +26,9 @@ In the field of vehicular networks, vehicles' limited computing power and batter
 
 To address this issue, Mobile Edge Computing is proposed, allowing vehicles to offload tasks to MEC servers for execution. An MEC system in a urban setting is shown as follows: 
 
-•Vehicles assess their channel connection status to determine the task offloading point and send task requests to the edge servers.
-•The servers return a quotation to the vehicles based on their status and task characteristics.
-•Upon receiving all quotations, the vehicles make task offload-ing decisions according to their budget.
+-Vehicles assess their channel connection status to determine the task offloading point and send task requests to the edge servers.
+-The servers return a quotation to the vehicles based on their status and task characteristics.
+-Upon receiving all quotations, the vehicles make task offload-ing decisions according to their budget.
 
 In vehicle task scheduling, there are many challenges, such as dynamics, network instability, and heterogeneous resource constraints. A more comprehensive and flexible task scheduling method is needed.
 
@@ -115,7 +120,7 @@ Task Completion Rate is the Ratio of completed tasks to total submitted tasks in
 
 This section evaluates the convergence performance of agents.
 
-•The PPO - LSTM Agent converges slightly slower than the PPO Agent, but has a higher final reward, less fluctuation in the later training stage.
+-The PPO - LSTM Agent converges slightly slower than the PPO Agent, but has a higher final reward, less fluctuation in the later training stage.
 
 ---
 
@@ -131,21 +136,21 @@ When the number of task arrivals rate is 10, Although the Fixed strategy perform
 
 As the task arrivals rate grows, the server's earnings and utilization generally rise while the task completion rate declines, likely due to server overload. 
 
-In the large-scale task scenario with arrival rate  is 40, the PPO-LSTM strategy continues to lead and achieves better performance.
+In the large-scale task scenario with arrival rate is 40, the PPO-LSTM strategy continues to lead and achieves better performance.
 
 In conclusion, we can see that the PPO-LTSM strategy shows better adaptability and performance under different task arrival rate.
 
 ---
 
-•This proposed method has significant advantages in improving task completion rate and vehicle utility, and can better adapt to the vehicular network environment.
+-This proposed method has significant advantages in improving task completion rate and vehicle utility, and can better adapt to the vehicular network environment.
 
-•The PPO - LSTM algorithm performs well in the learning process and decision - making quality.
+-The PPO - LSTM algorithm performs well in the learning process and decision - making quality.
 
 ---
 
-•Future research needs to consider more realistic models and environments to enhance the adaptability and robustness of the method.
+-Future research needs to consider more realistic models and environments to enhance the adaptability and robustness of the method.
 
-•Further exploring and optimizing of MADRL is crucial for improving the system performance and promoting the research and application of vehicular network task scheduling methods.
+-Further exploring and optimizing of MADRL is crucial for improving the system performance and promoting the research and application of vehicular network task scheduling methods.
 
 ---
 
