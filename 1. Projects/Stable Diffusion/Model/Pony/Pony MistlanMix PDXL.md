@@ -3,7 +3,7 @@ tags:
 cssclass:
 source:
 created: "2024-09-15 23:46"
-updated: "2024-09-16 22:30"
+updated: "2024-09-17 10:19"
 ---
 ### **_How to Use correctly:_**
 
@@ -26,7 +26,7 @@ realistic, masterpiece, scenery, beautiful eyes, best quality, very aesthetic
 
 - When prompting, **Using less is better for output!!!**
 - Recommended aspect ratios are **`1024x1024`**, **`832x1216`**, **`1216x832`**. Works flawlessly with many SDXL resolutions.
-- **Highly Recommended to use** SDFORGE (if lower VRAM) using a hires fix to txt2img outputs
+- **Highly Recommended to use** SDFORGE (if lower VRAM) using a hires fix to txt2img outputs
 
 - Hires.fix Upscaler: R-ESRGAN 4x+ Anime6B
     
