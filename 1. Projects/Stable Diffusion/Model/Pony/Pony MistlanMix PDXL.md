@@ -1,3 +1,10 @@
+---
+tags: 
+cssclass:
+source:
+created: "2024-09-15 23:46"
+updated: "2024-09-16 22:30"
+---
 ### **_How to Use correctly:_**
 
 Use: 
@@ -18,5 +25,4 @@ realistic, masterpiece, scenery, beautiful eyes, best quality, very aesthetic
 ```
 
 - When prompting, **Using less is better for output!!!**
-
 - Recommended aspect ratios are **`1024x1024`**, **`832x1216`**, **`1216x832`**. Works flawlessly with many SDXL resolutions.
